@@ -2,7 +2,7 @@ import {loadSaved,saveSafely} from './storage.mjs';
 import {LANGS,MODES,norm,tokens,shuffled,free,freeTiles,makePairs,pairHint,makeSequence,payloadsFor,matchesText,prefixMatch,sentenceOptions,sequenceHint,repairSequence,routeKey,localDay,newProgress,memoryKey,updateMemory,validateProgress,mergeProgress} from './engine.mjs';
 import {AudioPlayer} from './audio.mjs';
 import {icon} from './icons.mjs';
-const {COURSE,UI,MANIFEST,AUDIO={},VERSION='6.0.1'}=globalThis.PAROLA_DATA;
+const {COURSE,UI,MANIFEST,AUDIO={},VERSION='6.0.2'}=globalThis.PAROLA_DATA;
 const NAMES={it:'Italiano',en:'English',ar:'العربية',ru:'Русский'},GLYPHS={it:'IT',en:'EN',ar:'ع',ru:'Я'};
 const UNIT=new Map(COURSE.units.map(u=>[u.id,u])),ITEM=new Map([...COURSE.items,...COURSE.vocab].map(i=>[i.id,i]));
 const KEY='parola-mahjong-v6';

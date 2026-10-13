@@ -1,5 +1,10 @@
 # Aggiornamenti di Parola
 
+## 6.0.2 — 13 ottobre 2026
+
+- Nome del repository corretto in florame-ai/parola e indirizzo GitHub Pages corretto in https://florame-ai.github.io/parola/.
+- Cronologia Git e progressi compatibili conservati. Il nuovo indirizzo ha un salvataggio distinto: per trasferire una partita esportarla dal vecchio indirizzo e importarla nelle Impostazioni.
+
 ## 6.0.1 — 13 ottobre 2026
 
 - Prima pubblicazione del gioco su GitHub Pages, con sorgenti nel repository pubblico florame-ai/parola-mahjong e ramo principale master.

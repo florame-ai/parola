@@ -5,7 +5,7 @@ const path = require('node:path');
 const {chromium} = require(process.env.PLAYWRIGHT_MODULE_PATH || 'playwright');
 const root = path.resolve(__dirname, '..');
 const version = fs.readFileSync(path.join(root, 'VERSION'), 'utf8').trim();
-const url = process.env.PAROLA_URL || 'https://florame-ai.github.io/parola-mahjong/';
+const url = process.env.PAROLA_URL || 'https://florame-ai.github.io/parola/';
 const checks = [], errors = [];
 function passed(check, details = {}) { checks.push({check, passed: true, ...details}); console.log('PASS', check, JSON.stringify(details)); }
 (async () => {
