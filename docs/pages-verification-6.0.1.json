@@ -1,6 +1,6 @@
 {
   "version": "6.0.1",
-  "url": "http://127.0.0.1:8765/Parola-v6-sorgenti-e-verifiche/",
+  "url": "https://florame-ai.github.io/parola-mahjong/",
   "checks": 25,
   "storage": "real browser localStorage",
   "offline": true,

@@ -60,6 +60,8 @@ python scripts/build.py --require-all-audio
 
 ## Verifiche originali della versione 6.0.0
 
+Per la pubblicazione 6.0.1 sono stati superati anche 25 controlli sul sito GitHub Pages reale, inclusi localStorage, copia di recupero, MP3 e ricarica offline. Il resoconto attuale è in `docs/PUBBLICAZIONE.md`; i risultati riportati sotto restano quelli storici della versione ricevuta.
+
 - **18 test Node superati**, inclusi grammatica degli abbinamenti, geometria, generazione delle sequenze, copie di recupero, migrazione e regressione del ripasso anticipato.
 - **6.320 tavoli simulati**: 4.320 tavoli negli scenari del motore e 2.000 simulazioni con scelte casuali di coppie valide; nessuno stallo osservato in questi scenari.
 - **163 controlli Chromium superati** in due suite di interfaccia: 71 nuovi controlli e 92 sui flussi preesistenti. Comprendono 12 partite complete Scrivi e abbina e 36 partite complete nelle altre modalità testuali.

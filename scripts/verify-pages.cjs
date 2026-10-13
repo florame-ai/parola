@@ -11,7 +11,7 @@ function passed(check, details = {}) { checks.push({check, passed: true, ...deta
 (async () => {
  const browser = await chromium.launch({headless: true, args: ['--autoplay-policy=no-user-gesture-required']});
  try {
-  const context = await browser.newContext({viewport: {width: 1360, height: 950}, acceptDownloads: true});
+  const context = await browser.newContext({viewport: {width: 1360, height: 950}, acceptDownloads: true, reducedMotion: 'reduce'});
   const page = await context.newPage();
   page.on('pageerror', e => errors.push(String(e)));
   page.on('console', m => {if (m.type() === 'error') errors.push(m.text());});
@@ -84,10 +84,11 @@ function passed(check, details = {}) { checks.push({check, passed: true, ...deta
    assert.equal(layout.lang, ui); assert.equal(layout.dir, ui === 'ar' ? 'rtl' : 'ltr');
    assert.ok(layout.width <= layout.viewport + 1); passed('mobile layout and language', {ui});
   }
-  await page.screenshot({path: path.join(root, 'docs/pages-mobile-6.0.1.png'), fullPage: true});
+  await page.evaluate(() => {document.querySelectorAll('.toast').forEach(e => e.remove());});
+  await page.screenshot({path: path.join(root, `docs/pages-mobile-${version}.png`), fullPage: true});
   await page.setViewportSize({width: 1360, height: 950});
   await page.evaluate(() => {Parola.setRoute('en', 'it', 'it'); Parola.nav('home');});
-  await page.screenshot({path: path.join(root, 'docs/pages-desktop-6.0.1.png'), fullPage: true});
+  await page.screenshot({path: path.join(root, `docs/pages-desktop-${version}.png`), fullPage: true});
   await page.evaluate(() => navigator.serviceWorker.ready);
   await page.waitForFunction(() => navigator.serviceWorker.controller !== null);
   assert.ok((await page.evaluate(() => caches.keys())).some(k => k.endsWith(version)));
@@ -102,7 +103,7 @@ function passed(check, details = {}) { checks.push({check, passed: true, ...deta
   assert.deepEqual(errors, []);
   passed('no JavaScript errors or missing translations');
   const report = {version, url, checks: checks.length, storage: 'real browser localStorage', offline: true, audioTested: ['it', 'en', 'ru'], arabicAudioIncluded: false, errors, results: checks};
-  fs.writeFileSync(path.join(root, 'docs/pages-verification-6.0.1.json'), JSON.stringify(report, null, 2) + '\n');
+  fs.writeFileSync(path.join(root, `docs/pages-verification-${version}.json`), JSON.stringify(report, null, 2) + '\n');
   console.log('TOTAL', checks.length);
  } finally {await browser.close();}
 })().catch(e => {console.error(e); process.exitCode = 1;});
