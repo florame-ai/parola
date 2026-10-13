@@ -242,7 +242,8 @@
     "writeTitle": "Scopri la tessera scrivendo",
     "writeMasked": "Tessera da sbloccare scrivendo",
     "writeUnlocked": "Tessera scoperta! Ora trova la sua coppia.",
-    "writeAudioNote": "L’ascolto è sempre gratuito. Con audio o modello, la risposta è registrata come assistita."
+    "writeAudioNote": "L’ascolto è sempre gratuito. Con audio o modello, la risposta è registrata come assistita.",
+    "releaseNotes": "Aggiornamenti"
   },
   "en": {
     "tagline": "A world of words. One idea at a time.",
@@ -487,7 +488,8 @@
     "writeTitle": "Reveal the tile by writing",
     "writeMasked": "Tile unlocked by writing",
     "writeUnlocked": "Tile revealed! Now find its match.",
-    "writeAudioNote": "Audio is always free. Using audio or a model marks the response as assisted."
+    "writeAudioNote": "Audio is always free. Using audio or a model marks the response as assisted.",
+    "releaseNotes": "Release notes"
   },
   "ar": {
     "tagline": "عالم من الكلمات. قاعدة واحدة في كل مرة.",
@@ -732,7 +734,8 @@
     "writeTitle": "اكشف البلاطة بالكتابة",
     "writeMasked": "بلاطة تفتح بالكتابة",
     "writeUnlocked": "ظهرت البلاطة! ابحث الآن عن زوجها.",
-    "writeAudioNote": "الاستماع مجاني دائمًا. عند استخدام الصوت أو النموذج، تسجل الإجابة بمساعدة."
+    "writeAudioNote": "الاستماع مجاني دائمًا. عند استخدام الصوت أو النموذج، تسجل الإجابة بمساعدة.",
+    "releaseNotes": "التحديثات"
   },
   "ru": {
     "tagline": "Мир слов. Одно правило за раз.",
@@ -977,6 +980,7 @@
     "writeTitle": "Открой плитку, написав ответ",
     "writeMasked": "Плитка открывается письменным ответом",
     "writeUnlocked": "Плитка открыта! Теперь найди её пару.",
-    "writeAudioNote": "Аудио всегда бесплатно. С аудио или образцом ответ отмечается как выполненный с помощью."
+    "writeAudioNote": "Аудио всегда бесплатно. С аудио или образцом ответ отмечается как выполненный с помощью.",
+    "releaseNotes": "Обновления"
   }
 }

@@ -1,0 +1,159 @@
+{
+  "version": "6.0.1",
+  "url": "http://127.0.0.1:8765/Parola-v6-sorgenti-e-verifiche/",
+  "checks": 25,
+  "storage": "real browser localStorage",
+  "offline": true,
+  "audioTested": [
+    "it",
+    "en",
+    "ru"
+  ],
+  "arabicAudioIncluded": false,
+  "errors": [],
+  "results": [
+    {
+      "check": "hosted boot, release version, 24 units and five modes",
+      "passed": true
+    },
+    {
+      "check": "actual MP3 playback",
+      "passed": true,
+      "language": "it"
+    },
+    {
+      "check": "actual MP3 playback",
+      "passed": true,
+      "language": "en"
+    },
+    {
+      "check": "actual MP3 playback",
+      "passed": true,
+      "language": "ru"
+    },
+    {
+      "check": "real localStorage keeps the active game after reload",
+      "passed": true
+    },
+    {
+      "check": "real browser storage recovers a corrupt primary from backup",
+      "passed": true
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "it",
+      "support": "en",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "it",
+      "support": "ar",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "it",
+      "support": "ru",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "en",
+      "support": "it",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "en",
+      "support": "ar",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "en",
+      "support": "ru",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "ar",
+      "support": "it",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "ar",
+      "support": "en",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "ar",
+      "support": "ru",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "ru",
+      "support": "it",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "ru",
+      "support": "en",
+      "pairs": 6
+    },
+    {
+      "check": "complete writing game",
+      "passed": true,
+      "target": "ru",
+      "support": "ar",
+      "pairs": 6
+    },
+    {
+      "check": "mobile layout and language",
+      "passed": true,
+      "ui": "it"
+    },
+    {
+      "check": "mobile layout and language",
+      "passed": true,
+      "ui": "en"
+    },
+    {
+      "check": "mobile layout and language",
+      "passed": true,
+      "ui": "ar"
+    },
+    {
+      "check": "mobile layout and language",
+      "passed": true,
+      "ui": "ru"
+    },
+    {
+      "check": "offline reload and actual embedded MP3 playback",
+      "passed": true
+    },
+    {
+      "check": "public changelog accessible offline",
+      "passed": true
+    },
+    {
+      "check": "no JavaScript errors or missing translations",
+      "passed": true
+    }
+  ]
+}

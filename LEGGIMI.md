@@ -1,10 +1,10 @@
-# Parola 6.0.0 — Mahjong delle lingue
+# Parola 6.0.1 — Mahjong delle lingue
 
 ## Apri il gioco
 
 Apri **index.html** con un browser. Il file consegnato incorpora il gioco e i 566 MP3 disponibili: non occorre installare librerie per giocare.
 
-Questa v6 è stata ricostruita dai sorgenti v5 effettivamente disponibili. Non è il recupero del vecchio archivio v6 citato in chat, che non era presente. Non è stata pubblicata su Sites o GitHub.
+Questa v6 è stata ricostruita dai sorgenti v5 effettivamente disponibili. Non è il recupero del vecchio archivio v6 citato in chat, che non era presente. La versione 6.0.1 è pubblicata su GitHub Pages: https://florame-ai.github.io/parola-mahjong/. Sorgenti: https://github.com/florame-ai/parola-mahjong. Gli aggiornamenti sono descritti in CHANGELOG.md e nella pagina pubblica changelog.html.
 
 ## Modifiche reali rispetto alla v5
 
@@ -58,7 +58,7 @@ python scripts/build.py --require-all-audio
 
 **Quest'ultimo controllo attualmente NON passa:** mancano gli MP3 arabi. Il comando lo segnala ed esce senza sovrascrivere il gioco.
 
-## Verifiche eseguite
+## Verifiche originali della versione 6.0.0
 
 - **18 test Node superati**, inclusi grammatica degli abbinamenti, geometria, generazione delle sequenze, copie di recupero, migrazione e regressione del ripasso anticipato.
 - **6.320 tavoli simulati**: 4.320 tavoli negli scenari del motore e 2.000 simulazioni con scelte casuali di coppie valide; nessuno stallo osservato in questi scenari.
@@ -86,10 +86,10 @@ Le tre lingue con MP3 inclusi usano voci sintetiche di base. La pronuncia e i co
 
 L'HTML autonomo contiene già i media disponibili; il funzionamento della cache/service worker su GitHub Pages richiede una prova dopo il caricamento. Il browser può rimuovere la cache. L'app non può imporre volume, autorizzazioni audio o disponibilità dell'altoparlante.
 
-## Successivo caricamento su GitHub Pages
+## Pubblicazione su GitHub Pages
 
 Estrai lo ZIP e carica i file, non lo ZIP, nella cartella principale del repository. `index.html` deve essere al primo livello. Per usare le funzioni della versione ospitata, mantieni anche `sw.js`, `manifest.webmanifest`, `icon.svg` e `.nojekyll`.
 
-Configura la pubblicazione del repository con il ramo `main` e la cartella radice `/(root)`. Nessun token o segreto deve essere inserito nel sito. Non è stato creato o modificato alcun repository in questa consegna.
+Il repository pubblico `florame-ai/parola-mahjong` pubblica il ramo `master` dalla cartella radice `/(root)`. Prima di ogni push integrare gli aggiornamenti remoti su master senza forzare il push. Nessun token o segreto deve essere inserito nel sito. La versione ricevuta è conservata in un commit separato.
 
 Esporta i progressi prima di cambiare indirizzo: un file locale e una pagina ospitata non condividono automaticamente lo stesso salvataggio.

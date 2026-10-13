@@ -1,7 +1,7 @@
 /* Cache is scoped to this repository, never to other GitHub Pages apps. */
 const PREFIX='parola-v6:'+new URL(self.registration.scope).pathname+':';
-const CACHE=PREFIX+'6.0.0';
-const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg'];
+const CACHE=PREFIX+'6.0.1';
+const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./changelog.html'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL))));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{
  for(const key of await caches.keys())if(key.startsWith(PREFIX)&&key!==CACHE)await caches.delete(key);
@@ -13,7 +13,7 @@ self.addEventListener('fetch',event=>{
  if(request.mode==='navigate'){
   event.respondWith((async()=>{
    try{const response=await fetch(request);if(response.ok){const cache=await caches.open(CACHE);await cache.put('./index.html',response.clone());return response;}throw Error('Offline response');}
-   catch{return await caches.match(new URL('./index.html',self.registration.scope).href)||Response.error();}
+   catch{return await caches.match(request)||await caches.match(new URL('./index.html',self.registration.scope).href)||Response.error();}
   })());
  }else{
   event.respondWith((async()=>{
