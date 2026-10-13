@@ -1,0 +1,119 @@
+TAP version 13
+# Subtest: 24 units, 72 aligned phrases, four complete UI languages, 12 directions
+ok 1 - 24 units, 72 aligned phrases, four complete UI languages, 12 directions
+  ---
+  duration_ms: 2.115712
+  type: 'test'
+  ...
+# Subtest: precise Mahjong covering and lateral blocking rules
+ok 2 - precise Mahjong covering and lateral blocking rules
+  ---
+  duration_ms: 0.232002
+  type: 'test'
+  ...
+# Subtest: all 12 directions × 24 units × 10 randomized pair boards have a solution
+ok 3 - all 12 directions × 24 units × 10 randomized pair boards have a solution
+  ---
+  duration_ms: 104.131405
+  type: 'test'
+  ...
+# Subtest: random legal pair choices: record any deadlocks instead of hiding them
+ok 4 - random legal pair choices: record any deadlocks instead of hiding them
+  ---
+  duration_ms: 31.14042
+  type: 'test'
+  ...
+# Subtest: all sentence boards can be completed; alternative identical tiles repaired safely
+ok 5 - all sentence boards can be completed; alternative identical tiles repaired safely
+  ---
+  duration_ms: 162.910456
+  type: 'test'
+  ...
+# Subtest: prefixes, variants, ordered words and preservation of important spelling distinctions
+ok 6 - prefixes, variants, ordered words and preservation of important spelling distinctions
+  ---
+  duration_ms: 6.639163
+  type: 'test'
+  ...
+# Subtest: review spacing, same-day repetition, assistance, errors, and direction isolation
+ok 7 - review spacing, same-day repetition, assistance, errors, and direction isolation
+  ---
+  duration_ms: 0.467368
+  type: 'test'
+  ...
+# Subtest: safe progress import and highest-score merge without accumulating duplicate XP
+ok 8 - safe progress import and highest-score merge without accumulating duplicate XP
+  ---
+  duration_ms: 0.773922
+  type: 'test'
+  ...
+# SIMULATION_REPORT {"boards":4320,"sequenceMoves":16035,"randomStalls":0}
+# Subtest: v6 has five modes and migrates v5 progress without changing the input
+ok 9 - v6 has five modes and migrates v5 progress without changing the input
+  ---
+  duration_ms: 2.341434
+  type: 'test'
+  ...
+# Subtest: early success on a different day keeps the original review deadline and assessment timestamp
+ok 10 - early success on a different day keeps the original review deadline and assessment timestamp
+  ---
+  duration_ms: 0.377802
+  type: 'test'
+  ...
+# Subtest: repeated early study cannot postpone a scheduled check indefinitely
+ok 11 - repeated early study cannot postpone a scheduled check indefinitely
+  ---
+  duration_ms: 0.225241
+  type: 'test'
+  ...
+# Subtest: negative or nonfinite review timestamps rejected
+ok 12 - negative or nonfinite review timestamps rejected
+  ---
+  duration_ms: 0.226382
+  type: 'test'
+  ...
+# Subtest: first save includes a recovery copy and next save keeps previous valid data
+ok 13 - first save includes a recovery copy and next save keeps previous valid data
+  ---
+  duration_ms: 0.317391
+  type: 'test'
+  ...
+# Subtest: corrupt primary recovers previous save; corruption cannot overwrite backup
+ok 14 - corrupt primary recovers previous save; corruption cannot overwrite backup
+  ---
+  duration_ms: 0.508059
+  type: 'test'
+  ...
+# Subtest: read of a v5 legacy key leaves the legacy content intact
+ok 15 - read of a v5 legacy key leaves the legacy content intact
+  ---
+  duration_ms: 0.136967
+  type: 'test'
+  ...
+# Subtest: quota errors do not destroy the last primary save
+ok 16 - quota errors do not destroy the last primary save
+  ---
+  duration_ms: 0.179772
+  type: 'test'
+  ...
+# Subtest: unavailable storage returns a playable fresh session
+ok 17 - unavailable storage returns a playable fresh session
+  ---
+  duration_ms: 0.391052
+  type: 'test'
+  ...
+# Subtest: invalid save data cannot replace valid primary or backup
+ok 18 - invalid save data cannot replace valid primary or backup
+  ---
+  duration_ms: 0.323429
+  type: 'test'
+  ...
+1..18
+# tests 18
+# suites 0
+# pass 18
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 370.358346

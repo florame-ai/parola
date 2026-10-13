@@ -1,0 +1,3789 @@
+{
+  "it|io sono anna": {
+    "lang": "it",
+    "text": "Io sono Anna.",
+    "say": "Io sono Anna."
+  },
+  "it|sono anna": {
+    "lang": "it",
+    "text": "Sono Anna.",
+    "say": "Sono Anna."
+  },
+  "it|io": {
+    "lang": "it",
+    "text": "io",
+    "say": "io"
+  },
+  "it|sono": {
+    "lang": "it",
+    "text": "sono",
+    "say": "sono"
+  },
+  "it|anna": {
+    "lang": "it",
+    "text": "Anna",
+    "say": "Anna"
+  },
+  "en|i am anna": {
+    "lang": "en",
+    "text": "I am Anna.",
+    "say": "I am Anna."
+  },
+  "en|i'm anna": {
+    "lang": "en",
+    "text": "I'm Anna.",
+    "say": "I'm Anna."
+  },
+  "en|i": {
+    "lang": "en",
+    "text": "I",
+    "say": "I"
+  },
+  "en|am": {
+    "lang": "en",
+    "text": "am",
+    "say": "am"
+  },
+  "en|anna": {
+    "lang": "en",
+    "text": "Anna",
+    "say": "Anna"
+  },
+  "ar|أنا آنا": {
+    "lang": "ar",
+    "text": "أنا آنا.",
+    "say": "أنا آنا."
+  },
+  "ar|أنا": {
+    "lang": "ar",
+    "text": "أنا",
+    "say": "أنا"
+  },
+  "ar|آنا": {
+    "lang": "ar",
+    "text": "آنا",
+    "say": "آنا"
+  },
+  "ru|я анна": {
+    "lang": "ru",
+    "text": "Я Анна.",
+    "say": "Я Анна."
+  },
+  "ru|я": {
+    "lang": "ru",
+    "text": "я",
+    "say": "я"
+  },
+  "ru|анна": {
+    "lang": "ru",
+    "text": "Анна",
+    "say": "Анна"
+  },
+  "it|lei è maria": {
+    "lang": "it",
+    "text": "Lei è Maria.",
+    "say": "Lei è Maria."
+  },
+  "it|è maria": {
+    "lang": "it",
+    "text": "è Maria.",
+    "say": "è Maria."
+  },
+  "it|lei": {
+    "lang": "it",
+    "text": "lei",
+    "say": "lei"
+  },
+  "it|è": {
+    "lang": "it",
+    "text": "è",
+    "say": "è"
+  },
+  "it|maria": {
+    "lang": "it",
+    "text": "Maria",
+    "say": "Maria"
+  },
+  "en|she is maria": {
+    "lang": "en",
+    "text": "She is Maria.",
+    "say": "She is Maria."
+  },
+  "en|she's maria": {
+    "lang": "en",
+    "text": "She's Maria.",
+    "say": "She's Maria."
+  },
+  "en|she": {
+    "lang": "en",
+    "text": "she",
+    "say": "she"
+  },
+  "en|is": {
+    "lang": "en",
+    "text": "is",
+    "say": "is"
+  },
+  "en|maria": {
+    "lang": "en",
+    "text": "Maria",
+    "say": "Maria"
+  },
+  "ar|هي ماريا": {
+    "lang": "ar",
+    "text": "هي ماريا.",
+    "say": "هي ماريا."
+  },
+  "ar|هي": {
+    "lang": "ar",
+    "text": "هي",
+    "say": "هي"
+  },
+  "ar|ماريا": {
+    "lang": "ar",
+    "text": "ماريا",
+    "say": "ماريا"
+  },
+  "ru|она мария": {
+    "lang": "ru",
+    "text": "Она Мария.",
+    "say": "Она Мария."
+  },
+  "ru|она": {
+    "lang": "ru",
+    "text": "она",
+    "say": "она"
+  },
+  "ru|мария": {
+    "lang": "ru",
+    "text": "Мария",
+    "say": "Мария"
+  },
+  "it|lui è marco": {
+    "lang": "it",
+    "text": "Lui è Marco.",
+    "say": "Lui è Marco."
+  },
+  "it|è marco": {
+    "lang": "it",
+    "text": "è Marco.",
+    "say": "è Marco."
+  },
+  "it|lui": {
+    "lang": "it",
+    "text": "lui",
+    "say": "lui"
+  },
+  "it|marco": {
+    "lang": "it",
+    "text": "Marco",
+    "say": "Marco"
+  },
+  "en|he is marco": {
+    "lang": "en",
+    "text": "He is Marco.",
+    "say": "He is Marco."
+  },
+  "en|he's marco": {
+    "lang": "en",
+    "text": "He's Marco.",
+    "say": "He's Marco."
+  },
+  "en|he": {
+    "lang": "en",
+    "text": "he",
+    "say": "he"
+  },
+  "en|marco": {
+    "lang": "en",
+    "text": "Marco",
+    "say": "Marco"
+  },
+  "ar|هو ماركو": {
+    "lang": "ar",
+    "text": "هو ماركو.",
+    "say": "هو ماركو."
+  },
+  "ar|هو": {
+    "lang": "ar",
+    "text": "هو",
+    "say": "هو"
+  },
+  "ar|ماركو": {
+    "lang": "ar",
+    "text": "ماركو",
+    "say": "ماركو"
+  },
+  "ru|он марко": {
+    "lang": "ru",
+    "text": "Он Марко.",
+    "say": "Он Марко."
+  },
+  "ru|он": {
+    "lang": "ru",
+    "text": "он",
+    "say": "он"
+  },
+  "ru|марко": {
+    "lang": "ru",
+    "text": "Марко",
+    "say": "Марко"
+  },
+  "it|questo è un libro": {
+    "lang": "it",
+    "text": "Questo è un libro.",
+    "say": "Questo è un libro."
+  },
+  "it|questo": {
+    "lang": "it",
+    "text": "Questo",
+    "say": "Questo"
+  },
+  "it|un": {
+    "lang": "it",
+    "text": "un",
+    "say": "un"
+  },
+  "it|libro": {
+    "lang": "it",
+    "text": "libro",
+    "say": "libro"
+  },
+  "en|this is a book": {
+    "lang": "en",
+    "text": "This is a book.",
+    "say": "This is a book."
+  },
+  "en|this": {
+    "lang": "en",
+    "text": "This",
+    "say": "This"
+  },
+  "en|a": {
+    "lang": "en",
+    "text": "a",
+    "say": "a"
+  },
+  "en|book": {
+    "lang": "en",
+    "text": "book",
+    "say": "book"
+  },
+  "ar|هذا كتاب": {
+    "lang": "ar",
+    "text": "هذا كتاب.",
+    "say": "هذا كتاب."
+  },
+  "ar|هذا": {
+    "lang": "ar",
+    "text": "هذا",
+    "say": "هذا"
+  },
+  "ar|كتاب": {
+    "lang": "ar",
+    "text": "كتاب",
+    "say": "كتاب"
+  },
+  "ru|это книга": {
+    "lang": "ru",
+    "text": "Это книга.",
+    "say": "Это книга."
+  },
+  "ru|это": {
+    "lang": "ru",
+    "text": "Это",
+    "say": "Это"
+  },
+  "ru|книга": {
+    "lang": "ru",
+    "text": "книга",
+    "say": "книга"
+  },
+  "it|questa è una casa": {
+    "lang": "it",
+    "text": "Questa è una casa.",
+    "say": "Questa è una casa."
+  },
+  "it|questa": {
+    "lang": "it",
+    "text": "Questa",
+    "say": "Questa"
+  },
+  "it|una": {
+    "lang": "it",
+    "text": "una",
+    "say": "una"
+  },
+  "it|casa": {
+    "lang": "it",
+    "text": "casa",
+    "say": "casa"
+  },
+  "en|this is a house": {
+    "lang": "en",
+    "text": "This is a house.",
+    "say": "This is a house."
+  },
+  "en|house": {
+    "lang": "en",
+    "text": "house",
+    "say": "house"
+  },
+  "ar|هذا بيت": {
+    "lang": "ar",
+    "text": "هذا بيت.",
+    "say": "هذا بيت."
+  },
+  "ar|بيت": {
+    "lang": "ar",
+    "text": "بيت",
+    "say": "بيت"
+  },
+  "ru|это дом": {
+    "lang": "ru",
+    "text": "Это дом.",
+    "say": "Это дом."
+  },
+  "ru|дом": {
+    "lang": "ru",
+    "text": "дом",
+    "say": "дом"
+  },
+  "it|questa è una scuola": {
+    "lang": "it",
+    "text": "Questa è una scuola.",
+    "say": "Questa è una scuola."
+  },
+  "it|scuola": {
+    "lang": "it",
+    "text": "scuola",
+    "say": "scuola"
+  },
+  "en|this is a school": {
+    "lang": "en",
+    "text": "This is a school.",
+    "say": "This is a school."
+  },
+  "en|school": {
+    "lang": "en",
+    "text": "school",
+    "say": "school"
+  },
+  "ar|هذه مدرسة": {
+    "lang": "ar",
+    "text": "هذه مدرسة.",
+    "say": "هذه مدرسة."
+  },
+  "ar|هذه": {
+    "lang": "ar",
+    "text": "هذه",
+    "say": "هذه"
+  },
+  "ar|مدرسة": {
+    "lang": "ar",
+    "text": "مدرسة",
+    "say": "مدرسة"
+  },
+  "ru|это школа": {
+    "lang": "ru",
+    "text": "Это школа.",
+    "say": "Это школа."
+  },
+  "ru|школа": {
+    "lang": "ru",
+    "text": "школа",
+    "say": "школа"
+  },
+  "it|il libro è nuovo": {
+    "lang": "it",
+    "text": "Il libro è nuovo.",
+    "say": "Il libro è nuovo."
+  },
+  "it|il": {
+    "lang": "it",
+    "text": "Il",
+    "say": "Il"
+  },
+  "it|nuovo": {
+    "lang": "it",
+    "text": "nuovo",
+    "say": "nuovo"
+  },
+  "en|the book is new": {
+    "lang": "en",
+    "text": "The book is new.",
+    "say": "The book is new."
+  },
+  "en|the": {
+    "lang": "en",
+    "text": "The",
+    "say": "The"
+  },
+  "en|new": {
+    "lang": "en",
+    "text": "new",
+    "say": "new"
+  },
+  "ar|الكتاب جديد": {
+    "lang": "ar",
+    "text": "الكتاب جديد.",
+    "say": "الكتاب جديد."
+  },
+  "ar|الكتاب": {
+    "lang": "ar",
+    "text": "الكتاب",
+    "say": "الكتاب"
+  },
+  "ar|جديد": {
+    "lang": "ar",
+    "text": "جديد",
+    "say": "جديد"
+  },
+  "ru|книга новая": {
+    "lang": "ru",
+    "text": "Книга новая.",
+    "say": "Книга новая."
+  },
+  "ru|новая": {
+    "lang": "ru",
+    "text": "новая",
+    "say": "новая"
+  },
+  "it|la casa è grande": {
+    "lang": "it",
+    "text": "La casa è grande.",
+    "say": "La casa è grande."
+  },
+  "it|la": {
+    "lang": "it",
+    "text": "La",
+    "say": "La"
+  },
+  "it|grande": {
+    "lang": "it",
+    "text": "grande",
+    "say": "grande"
+  },
+  "en|the house is big": {
+    "lang": "en",
+    "text": "The house is big.",
+    "say": "The house is big."
+  },
+  "en|big": {
+    "lang": "en",
+    "text": "big",
+    "say": "big"
+  },
+  "ar|البيت كبير": {
+    "lang": "ar",
+    "text": "البيت كبير.",
+    "say": "البيت كبير."
+  },
+  "ar|البيت": {
+    "lang": "ar",
+    "text": "البيت",
+    "say": "البيت"
+  },
+  "ar|كبير": {
+    "lang": "ar",
+    "text": "كبير",
+    "say": "كبير"
+  },
+  "ru|дом большой": {
+    "lang": "ru",
+    "text": "Дом большой.",
+    "say": "Дом большой."
+  },
+  "ru|большой": {
+    "lang": "ru",
+    "text": "большой",
+    "say": "большой"
+  },
+  "it|la porta è nuova": {
+    "lang": "it",
+    "text": "La porta è nuova.",
+    "say": "La porta è nuova."
+  },
+  "it|porta": {
+    "lang": "it",
+    "text": "porta",
+    "say": "porta"
+  },
+  "it|nuova": {
+    "lang": "it",
+    "text": "nuova",
+    "say": "nuova"
+  },
+  "en|the door is new": {
+    "lang": "en",
+    "text": "The door is new.",
+    "say": "The door is new."
+  },
+  "en|door": {
+    "lang": "en",
+    "text": "door",
+    "say": "door"
+  },
+  "ar|الباب جديد": {
+    "lang": "ar",
+    "text": "الباب جديد.",
+    "say": "الباب جديد."
+  },
+  "ar|الباب": {
+    "lang": "ar",
+    "text": "الباب",
+    "say": "الباب"
+  },
+  "ru|дверь новая": {
+    "lang": "ru",
+    "text": "Дверь новая.",
+    "say": "Дверь новая."
+  },
+  "ru|дверь": {
+    "lang": "ru",
+    "text": "Дверь",
+    "say": "Дверь"
+  },
+  "it|io leggo un libro": {
+    "lang": "it",
+    "text": "Io leggo un libro.",
+    "say": "Io leggo un libro."
+  },
+  "it|leggo un libro": {
+    "lang": "it",
+    "text": "Leggo un libro.",
+    "say": "Leggo un libro."
+  },
+  "it|leggo": {
+    "lang": "it",
+    "text": "leggo",
+    "say": "leggo"
+  },
+  "en|i read a book": {
+    "lang": "en",
+    "text": "I read a book.",
+    "say": "I read a book."
+  },
+  "en|read": {
+    "lang": "en",
+    "text": "read",
+    "say": "read"
+  },
+  "ar|أنا أقرأ كتابا": {
+    "lang": "ar",
+    "text": "أنا أقرأ كتابًا.",
+    "say": "أنا أقرأ كتابًا."
+  },
+  "ar|أقرأ كتابا": {
+    "lang": "ar",
+    "text": "أقرأ كتابًا.",
+    "say": "أقرأ كتابًا."
+  },
+  "ar|أقرأ": {
+    "lang": "ar",
+    "text": "أقرأ",
+    "say": "أقرأ"
+  },
+  "ar|كتابا": {
+    "lang": "ar",
+    "text": "كتابًا",
+    "say": "كتابًا"
+  },
+  "ru|я читаю книгу": {
+    "lang": "ru",
+    "text": "Я читаю книгу.",
+    "say": "Я читаю книгу."
+  },
+  "ru|книгу я читаю": {
+    "lang": "ru",
+    "text": "книгу я читаю.",
+    "say": "книгу я читаю."
+  },
+  "ru|читаю": {
+    "lang": "ru",
+    "text": "читаю",
+    "say": "читаю"
+  },
+  "ru|книгу": {
+    "lang": "ru",
+    "text": "книгу",
+    "say": "книгу"
+  },
+  "it|io bevo acqua": {
+    "lang": "it",
+    "text": "Io bevo acqua.",
+    "say": "Io bevo acqua."
+  },
+  "it|bevo acqua": {
+    "lang": "it",
+    "text": "Bevo acqua.",
+    "say": "Bevo acqua."
+  },
+  "it|bevo": {
+    "lang": "it",
+    "text": "bevo",
+    "say": "bevo"
+  },
+  "it|acqua": {
+    "lang": "it",
+    "text": "acqua",
+    "say": "acqua"
+  },
+  "en|i drink water": {
+    "lang": "en",
+    "text": "I drink water.",
+    "say": "I drink water."
+  },
+  "en|drink": {
+    "lang": "en",
+    "text": "drink",
+    "say": "drink"
+  },
+  "en|water": {
+    "lang": "en",
+    "text": "water",
+    "say": "water"
+  },
+  "ar|أنا أشرب الماء": {
+    "lang": "ar",
+    "text": "أنا أشرب الماء.",
+    "say": "أنا أشرب الماء."
+  },
+  "ar|أشرب الماء": {
+    "lang": "ar",
+    "text": "أشرب الماء.",
+    "say": "أشرب الماء."
+  },
+  "ar|أشرب": {
+    "lang": "ar",
+    "text": "أشرب",
+    "say": "أشرب"
+  },
+  "ar|الماء": {
+    "lang": "ar",
+    "text": "الماء",
+    "say": "الماء"
+  },
+  "ru|я пью воду": {
+    "lang": "ru",
+    "text": "Я пью воду.",
+    "say": "Я пью воду."
+  },
+  "ru|воду я пью": {
+    "lang": "ru",
+    "text": "воду я пью.",
+    "say": "воду я пью."
+  },
+  "ru|пью": {
+    "lang": "ru",
+    "text": "пью",
+    "say": "пью"
+  },
+  "ru|воду": {
+    "lang": "ru",
+    "text": "воду",
+    "say": "воду"
+  },
+  "it|io parlo inglese": {
+    "lang": "it",
+    "text": "Io parlo inglese.",
+    "say": "Io parlo inglese."
+  },
+  "it|parlo inglese": {
+    "lang": "it",
+    "text": "Parlo inglese.",
+    "say": "Parlo inglese."
+  },
+  "it|parlo": {
+    "lang": "it",
+    "text": "parlo",
+    "say": "parlo"
+  },
+  "it|inglese": {
+    "lang": "it",
+    "text": "inglese",
+    "say": "inglese"
+  },
+  "en|i speak english": {
+    "lang": "en",
+    "text": "I speak English.",
+    "say": "I speak English."
+  },
+  "en|speak": {
+    "lang": "en",
+    "text": "speak",
+    "say": "speak"
+  },
+  "en|english": {
+    "lang": "en",
+    "text": "English",
+    "say": "English"
+  },
+  "ar|أنا أتكلم الإنجليزية": {
+    "lang": "ar",
+    "text": "أنا أتكلم الإنجليزية.",
+    "say": "أنا أتكلم الإنجليزية."
+  },
+  "ar|أتكلم الإنجليزية": {
+    "lang": "ar",
+    "text": "أتكلم الإنجليزية.",
+    "say": "أتكلم الإنجليزية."
+  },
+  "ar|أتكلم": {
+    "lang": "ar",
+    "text": "أتكلم",
+    "say": "أتكلم"
+  },
+  "ar|الإنجليزية": {
+    "lang": "ar",
+    "text": "الإنجليزية",
+    "say": "الإنجليزية"
+  },
+  "ru|я говорю по-английски": {
+    "lang": "ru",
+    "text": "Я говорю по-английски.",
+    "say": "Я говорю по-английски."
+  },
+  "ru|говорю": {
+    "lang": "ru",
+    "text": "говорю",
+    "say": "говорю"
+  },
+  "ru|по-английски": {
+    "lang": "ru",
+    "text": "по-английски",
+    "say": "по-английски"
+  },
+  "it|lei legge un libro": {
+    "lang": "it",
+    "text": "Lei legge un libro.",
+    "say": "Lei legge un libro."
+  },
+  "it|legge un libro": {
+    "lang": "it",
+    "text": "legge un libro.",
+    "say": "legge un libro."
+  },
+  "it|legge": {
+    "lang": "it",
+    "text": "legge",
+    "say": "legge"
+  },
+  "en|she reads a book": {
+    "lang": "en",
+    "text": "She reads a book.",
+    "say": "She reads a book."
+  },
+  "en|reads": {
+    "lang": "en",
+    "text": "reads",
+    "say": "reads"
+  },
+  "ar|هي تقرأ كتابا": {
+    "lang": "ar",
+    "text": "هي تقرأ كتابًا.",
+    "say": "هي تقرأ كتابًا."
+  },
+  "ar|تقرأ كتابا": {
+    "lang": "ar",
+    "text": "تقرأ كتابًا.",
+    "say": "تقرأ كتابًا."
+  },
+  "ar|تقرأ": {
+    "lang": "ar",
+    "text": "تقرأ",
+    "say": "تقرأ"
+  },
+  "ru|она читает книгу": {
+    "lang": "ru",
+    "text": "Она читает книгу.",
+    "say": "Она читает книгу."
+  },
+  "ru|книгу она читает": {
+    "lang": "ru",
+    "text": "книгу она читает.",
+    "say": "книгу она читает."
+  },
+  "ru|читает": {
+    "lang": "ru",
+    "text": "читает",
+    "say": "читает"
+  },
+  "it|lui beve tè": {
+    "lang": "it",
+    "text": "Lui beve tè.",
+    "say": "Lui beve tè."
+  },
+  "it|beve tè": {
+    "lang": "it",
+    "text": "beve tè.",
+    "say": "beve tè."
+  },
+  "it|beve": {
+    "lang": "it",
+    "text": "beve",
+    "say": "beve"
+  },
+  "it|tè": {
+    "lang": "it",
+    "text": "tè",
+    "say": "tè"
+  },
+  "en|he drinks tea": {
+    "lang": "en",
+    "text": "He drinks tea.",
+    "say": "He drinks tea."
+  },
+  "en|drinks": {
+    "lang": "en",
+    "text": "drinks",
+    "say": "drinks"
+  },
+  "en|tea": {
+    "lang": "en",
+    "text": "tea",
+    "say": "tea"
+  },
+  "ar|هو يشرب الشاي": {
+    "lang": "ar",
+    "text": "هو يشرب الشاي.",
+    "say": "هو يشرب الشاي."
+  },
+  "ar|يشرب الشاي": {
+    "lang": "ar",
+    "text": "يشرب الشاي.",
+    "say": "يشرب الشاي."
+  },
+  "ar|يشرب": {
+    "lang": "ar",
+    "text": "يشرب",
+    "say": "يشرب"
+  },
+  "ar|الشاي": {
+    "lang": "ar",
+    "text": "الشاي",
+    "say": "الشاي"
+  },
+  "ru|он пьёт чай": {
+    "lang": "ru",
+    "text": "Он пьёт чай.",
+    "say": "Он пьёт чай."
+  },
+  "ru|чай он пьёт": {
+    "lang": "ru",
+    "text": "чай он пьёт.",
+    "say": "чай он пьёт."
+  },
+  "ru|пьёт": {
+    "lang": "ru",
+    "text": "пьёт",
+    "say": "пьёт"
+  },
+  "ru|чай": {
+    "lang": "ru",
+    "text": "чай",
+    "say": "чай"
+  },
+  "it|lei parla italiano": {
+    "lang": "it",
+    "text": "Lei parla italiano.",
+    "say": "Lei parla italiano."
+  },
+  "it|parla italiano": {
+    "lang": "it",
+    "text": "parla italiano.",
+    "say": "parla italiano."
+  },
+  "it|parla": {
+    "lang": "it",
+    "text": "parla",
+    "say": "parla"
+  },
+  "it|italiano": {
+    "lang": "it",
+    "text": "italiano",
+    "say": "italiano"
+  },
+  "en|she speaks italian": {
+    "lang": "en",
+    "text": "She speaks Italian.",
+    "say": "She speaks Italian."
+  },
+  "en|speaks": {
+    "lang": "en",
+    "text": "speaks",
+    "say": "speaks"
+  },
+  "en|italian": {
+    "lang": "en",
+    "text": "Italian",
+    "say": "Italian"
+  },
+  "ar|هي تتكلم الإيطالية": {
+    "lang": "ar",
+    "text": "هي تتكلم الإيطالية.",
+    "say": "هي تتكلم الإيطالية."
+  },
+  "ar|تتكلم الإيطالية": {
+    "lang": "ar",
+    "text": "تتكلم الإيطالية.",
+    "say": "تتكلم الإيطالية."
+  },
+  "ar|تتكلم": {
+    "lang": "ar",
+    "text": "تتكلم",
+    "say": "تتكلم"
+  },
+  "ar|الإيطالية": {
+    "lang": "ar",
+    "text": "الإيطالية",
+    "say": "الإيطالية"
+  },
+  "ru|она говорит по-итальянски": {
+    "lang": "ru",
+    "text": "Она говорит по-итальянски.",
+    "say": "Она говорит по-итальянски."
+  },
+  "ru|говорит": {
+    "lang": "ru",
+    "text": "говорит",
+    "say": "говорит"
+  },
+  "ru|по-итальянски": {
+    "lang": "ru",
+    "text": "по-итальянски",
+    "say": "по-итальянски"
+  },
+  "it|io non bevo caffè": {
+    "lang": "it",
+    "text": "Io non bevo caffè.",
+    "say": "Io non bevo caffè."
+  },
+  "it|non bevo caffè": {
+    "lang": "it",
+    "text": "Non bevo caffè.",
+    "say": "Non bevo caffè."
+  },
+  "it|non": {
+    "lang": "it",
+    "text": "non",
+    "say": "non"
+  },
+  "it|caffè": {
+    "lang": "it",
+    "text": "caffè",
+    "say": "caffè"
+  },
+  "en|i do not drink coffee": {
+    "lang": "en",
+    "text": "I do not drink coffee.",
+    "say": "I do not drink coffee."
+  },
+  "en|i don't drink coffee": {
+    "lang": "en",
+    "text": "I don't drink coffee.",
+    "say": "I don't drink coffee."
+  },
+  "en|do": {
+    "lang": "en",
+    "text": "do",
+    "say": "do"
+  },
+  "en|not": {
+    "lang": "en",
+    "text": "not",
+    "say": "not"
+  },
+  "en|coffee": {
+    "lang": "en",
+    "text": "coffee",
+    "say": "coffee"
+  },
+  "ar|أنا لا أشرب القهوة": {
+    "lang": "ar",
+    "text": "أنا لا أشرب القهوة.",
+    "say": "أنا لا أشرب القهوة."
+  },
+  "ar|لا أشرب القهوة": {
+    "lang": "ar",
+    "text": "لا أشرب القهوة.",
+    "say": "لا أشرب القهوة."
+  },
+  "ar|لا": {
+    "lang": "ar",
+    "text": "لا",
+    "say": "لا"
+  },
+  "ar|القهوة": {
+    "lang": "ar",
+    "text": "القهوة",
+    "say": "القهوة"
+  },
+  "ru|я не пью кофе": {
+    "lang": "ru",
+    "text": "Я не пью кофе.",
+    "say": "Я не пью кофе."
+  },
+  "ru|кофе я не пью": {
+    "lang": "ru",
+    "text": "Кофе я не пью.",
+    "say": "Кофе я не пью."
+  },
+  "ru|не": {
+    "lang": "ru",
+    "text": "не",
+    "say": "не"
+  },
+  "ru|кофе": {
+    "lang": "ru",
+    "text": "кофе",
+    "say": "кофе"
+  },
+  "it|io non parlo russo": {
+    "lang": "it",
+    "text": "Io non parlo russo.",
+    "say": "Io non parlo russo."
+  },
+  "it|non parlo russo": {
+    "lang": "it",
+    "text": "Non parlo russo.",
+    "say": "Non parlo russo."
+  },
+  "it|russo": {
+    "lang": "it",
+    "text": "russo",
+    "say": "russo"
+  },
+  "en|i do not speak russian": {
+    "lang": "en",
+    "text": "I do not speak Russian.",
+    "say": "I do not speak Russian."
+  },
+  "en|i don't speak russian": {
+    "lang": "en",
+    "text": "I don't speak Russian.",
+    "say": "I don't speak Russian."
+  },
+  "en|russian": {
+    "lang": "en",
+    "text": "Russian",
+    "say": "Russian"
+  },
+  "ar|أنا لا أتكلم الروسية": {
+    "lang": "ar",
+    "text": "أنا لا أتكلم الروسية.",
+    "say": "أنا لا أتكلم الروسية."
+  },
+  "ar|لا أتكلم الروسية": {
+    "lang": "ar",
+    "text": "لا أتكلم الروسية.",
+    "say": "لا أتكلم الروسية."
+  },
+  "ar|الروسية": {
+    "lang": "ar",
+    "text": "الروسية",
+    "say": "الروسية"
+  },
+  "ru|я не говорю по-русски": {
+    "lang": "ru",
+    "text": "Я не говорю по-русски.",
+    "say": "Я не говорю по-русски."
+  },
+  "ru|по-русски": {
+    "lang": "ru",
+    "text": "по-русски",
+    "say": "по-русски"
+  },
+  "it|io non leggo": {
+    "lang": "it",
+    "text": "Io non leggo.",
+    "say": "Io non leggo."
+  },
+  "it|non leggo": {
+    "lang": "it",
+    "text": "Non leggo.",
+    "say": "Non leggo."
+  },
+  "en|i do not read": {
+    "lang": "en",
+    "text": "I do not read.",
+    "say": "I do not read."
+  },
+  "en|i don't read": {
+    "lang": "en",
+    "text": "I don't read.",
+    "say": "I don't read."
+  },
+  "ar|أنا لا أقرأ": {
+    "lang": "ar",
+    "text": "أنا لا أقرأ.",
+    "say": "أنا لا أقرأ."
+  },
+  "ar|لا أقرأ": {
+    "lang": "ar",
+    "text": "لا أقرأ.",
+    "say": "لا أقرأ."
+  },
+  "ru|я не читаю": {
+    "lang": "ru",
+    "text": "Я не читаю.",
+    "say": "Я не читаю."
+  },
+  "ru|не читаю я": {
+    "lang": "ru",
+    "text": "Не читаю я.",
+    "say": "Не читаю я."
+  },
+  "it|il libro è sul tavolo": {
+    "lang": "it",
+    "text": "Il libro è sul tavolo.",
+    "say": "Il libro è sul tavolo."
+  },
+  "it|sul": {
+    "lang": "it",
+    "text": "sul",
+    "say": "sul"
+  },
+  "it|tavolo": {
+    "lang": "it",
+    "text": "tavolo",
+    "say": "tavolo"
+  },
+  "en|the book is on the table": {
+    "lang": "en",
+    "text": "The book is on the table.",
+    "say": "The book is on the table."
+  },
+  "en|on": {
+    "lang": "en",
+    "text": "on",
+    "say": "on"
+  },
+  "en|table": {
+    "lang": "en",
+    "text": "table",
+    "say": "table"
+  },
+  "ar|الكتاب على الطاولة": {
+    "lang": "ar",
+    "text": "الكتاب على الطاولة.",
+    "say": "الكتاب على الطاولة."
+  },
+  "ar|على": {
+    "lang": "ar",
+    "text": "على",
+    "say": "على"
+  },
+  "ar|الطاولة": {
+    "lang": "ar",
+    "text": "الطاولة",
+    "say": "الطاولة"
+  },
+  "ru|книга на столе": {
+    "lang": "ru",
+    "text": "Книга на столе.",
+    "say": "Книга на столе."
+  },
+  "ru|на": {
+    "lang": "ru",
+    "text": "на",
+    "say": "на"
+  },
+  "ru|столе": {
+    "lang": "ru",
+    "text": "столе",
+    "say": "столе"
+  },
+  "it|il tè è sul tavolo": {
+    "lang": "it",
+    "text": "Il tè è sul tavolo.",
+    "say": "Il tè è sul tavolo."
+  },
+  "en|the tea is on the table": {
+    "lang": "en",
+    "text": "The tea is on the table.",
+    "say": "The tea is on the table."
+  },
+  "ar|الشاي على الطاولة": {
+    "lang": "ar",
+    "text": "الشاي على الطاولة.",
+    "say": "الشاي على الطاولة."
+  },
+  "ru|чай на столе": {
+    "lang": "ru",
+    "text": "Чай на столе.",
+    "say": "Чай на столе."
+  },
+  "it|il caffè è sul tavolo": {
+    "lang": "it",
+    "text": "Il caffè è sul tavolo.",
+    "say": "Il caffè è sul tavolo."
+  },
+  "en|the coffee is on the table": {
+    "lang": "en",
+    "text": "The coffee is on the table.",
+    "say": "The coffee is on the table."
+  },
+  "ar|القهوة على الطاولة": {
+    "lang": "ar",
+    "text": "القهوة على الطاولة.",
+    "say": "القهوة على الطاولة."
+  },
+  "ru|кофе на столе": {
+    "lang": "ru",
+    "text": "Кофе на столе.",
+    "say": "Кофе на столе."
+  },
+  "it|acqua per favore": {
+    "lang": "it",
+    "text": "Acqua, per favore.",
+    "say": "Acqua, per favore."
+  },
+  "it|per favore acqua": {
+    "lang": "it",
+    "text": "Per favore, acqua.",
+    "say": "Per favore, acqua."
+  },
+  "it|per": {
+    "lang": "it",
+    "text": "per",
+    "say": "per"
+  },
+  "it|favore": {
+    "lang": "it",
+    "text": "favore",
+    "say": "favore"
+  },
+  "en|water please": {
+    "lang": "en",
+    "text": "Water, please.",
+    "say": "Water, please."
+  },
+  "en|please water": {
+    "lang": "en",
+    "text": "Please, water.",
+    "say": "Please, water."
+  },
+  "en|please": {
+    "lang": "en",
+    "text": "please",
+    "say": "please"
+  },
+  "ar|ماء من فضلك": {
+    "lang": "ar",
+    "text": "ماء، من فضلك.",
+    "say": "ماء، من فضلك."
+  },
+  "ar|ماء": {
+    "lang": "ar",
+    "text": "ماء",
+    "say": "ماء"
+  },
+  "ar|من": {
+    "lang": "ar",
+    "text": "من",
+    "say": "من"
+  },
+  "ar|فضلك": {
+    "lang": "ar",
+    "text": "فضلك",
+    "say": "فضلك"
+  },
+  "ru|воду пожалуйста": {
+    "lang": "ru",
+    "text": "Воду, пожалуйста.",
+    "say": "Воду, пожалуйста."
+  },
+  "ru|пожалуйста воду": {
+    "lang": "ru",
+    "text": "Пожалуйста, воду.",
+    "say": "Пожалуйста, воду."
+  },
+  "ru|пожалуйста": {
+    "lang": "ru",
+    "text": "пожалуйста",
+    "say": "пожалуйста"
+  },
+  "it|tè per favore": {
+    "lang": "it",
+    "text": "Tè, per favore.",
+    "say": "Tè, per favore."
+  },
+  "it|per favore tè": {
+    "lang": "it",
+    "text": "Per favore, tè.",
+    "say": "Per favore, tè."
+  },
+  "en|tea please": {
+    "lang": "en",
+    "text": "Tea, please.",
+    "say": "Tea, please."
+  },
+  "en|please tea": {
+    "lang": "en",
+    "text": "Please, tea.",
+    "say": "Please, tea."
+  },
+  "ar|شاي من فضلك": {
+    "lang": "ar",
+    "text": "شاي، من فضلك.",
+    "say": "شاي، من فضلك."
+  },
+  "ar|شاي": {
+    "lang": "ar",
+    "text": "شاي",
+    "say": "شاي"
+  },
+  "ru|чай пожалуйста": {
+    "lang": "ru",
+    "text": "Чай, пожалуйста.",
+    "say": "Чай, пожалуйста."
+  },
+  "ru|пожалуйста чай": {
+    "lang": "ru",
+    "text": "Пожалуйста, чай.",
+    "say": "Пожалуйста, чай."
+  },
+  "it|caffè per favore": {
+    "lang": "it",
+    "text": "Caffè, per favore.",
+    "say": "Caffè, per favore."
+  },
+  "it|per favore caffè": {
+    "lang": "it",
+    "text": "Per favore, caffè.",
+    "say": "Per favore, caffè."
+  },
+  "en|coffee please": {
+    "lang": "en",
+    "text": "Coffee, please.",
+    "say": "Coffee, please."
+  },
+  "en|please coffee": {
+    "lang": "en",
+    "text": "Please, coffee.",
+    "say": "Please, coffee."
+  },
+  "ar|قهوة من فضلك": {
+    "lang": "ar",
+    "text": "قهوة، من فضلك.",
+    "say": "قهوة، من فضلك."
+  },
+  "ar|قهوة": {
+    "lang": "ar",
+    "text": "قهوة",
+    "say": "قهوة"
+  },
+  "ru|кофе пожалуйста": {
+    "lang": "ru",
+    "text": "Кофе, пожалуйста.",
+    "say": "Кофе, пожалуйста."
+  },
+  "ru|пожалуйста кофе": {
+    "lang": "ru",
+    "text": "Пожалуйста, кофе.",
+    "say": "Пожалуйста, кофе."
+  },
+  "it|ciao": {
+    "lang": "it",
+    "text": "Ciao!",
+    "say": "Ciao!"
+  },
+  "en|hello": {
+    "lang": "en",
+    "text": "Hello!",
+    "say": "Hello!"
+  },
+  "ar|مرحبا": {
+    "lang": "ar",
+    "text": "مرحبًا!",
+    "say": "مرحبًا!"
+  },
+  "ru|привет": {
+    "lang": "ru",
+    "text": "Привет!",
+    "say": "Привет!"
+  },
+  "it|buongiorno": {
+    "lang": "it",
+    "text": "Buongiorno!",
+    "say": "Buongiorno!"
+  },
+  "en|good morning": {
+    "lang": "en",
+    "text": "Good morning!",
+    "say": "Good morning!"
+  },
+  "en|good": {
+    "lang": "en",
+    "text": "Good",
+    "say": "Good"
+  },
+  "en|morning": {
+    "lang": "en",
+    "text": "morning",
+    "say": "morning"
+  },
+  "ar|صباح الخير": {
+    "lang": "ar",
+    "text": "صباح الخير!",
+    "say": "صباح الخير!"
+  },
+  "ar|صباح": {
+    "lang": "ar",
+    "text": "صباح",
+    "say": "صباح"
+  },
+  "ar|الخير": {
+    "lang": "ar",
+    "text": "الخير",
+    "say": "الخير"
+  },
+  "ru|доброе утро": {
+    "lang": "ru",
+    "text": "Доброе утро!",
+    "say": "Доброе утро!"
+  },
+  "ru|доброе": {
+    "lang": "ru",
+    "text": "Доброе",
+    "say": "Доброе"
+  },
+  "ru|утро": {
+    "lang": "ru",
+    "text": "утро",
+    "say": "утро"
+  },
+  "it|grazie": {
+    "lang": "it",
+    "text": "Grazie!",
+    "say": "Grazie!"
+  },
+  "en|thank you": {
+    "lang": "en",
+    "text": "Thank you!",
+    "say": "Thank you!"
+  },
+  "en|thank": {
+    "lang": "en",
+    "text": "Thank",
+    "say": "Thank"
+  },
+  "en|you": {
+    "lang": "en",
+    "text": "you",
+    "say": "you"
+  },
+  "ar|شكرا": {
+    "lang": "ar",
+    "text": "شكرًا!",
+    "say": "شكرًا!"
+  },
+  "ru|спасибо": {
+    "lang": "ru",
+    "text": "Спасибо!",
+    "say": "Спасибо!"
+  },
+  "it|un libro": {
+    "lang": "it",
+    "text": "un libro",
+    "say": "un libro"
+  },
+  "en|one book": {
+    "lang": "en",
+    "text": "one book",
+    "say": "one book"
+  },
+  "en|one": {
+    "lang": "en",
+    "text": "one",
+    "say": "one"
+  },
+  "ar|كتاب واحد": {
+    "lang": "ar",
+    "text": "كتاب واحد",
+    "say": "كتاب واحد"
+  },
+  "ar|واحد": {
+    "lang": "ar",
+    "text": "واحد",
+    "say": "واحد"
+  },
+  "ru|одна книга": {
+    "lang": "ru",
+    "text": "одна книга",
+    "say": "одна книга"
+  },
+  "ru|одна": {
+    "lang": "ru",
+    "text": "одна",
+    "say": "одна"
+  },
+  "it|due libri": {
+    "lang": "it",
+    "text": "due libri",
+    "say": "due libri"
+  },
+  "it|due": {
+    "lang": "it",
+    "text": "due",
+    "say": "due"
+  },
+  "it|libri": {
+    "lang": "it",
+    "text": "libri",
+    "say": "libri"
+  },
+  "en|two books": {
+    "lang": "en",
+    "text": "two books",
+    "say": "two books"
+  },
+  "en|two": {
+    "lang": "en",
+    "text": "two",
+    "say": "two"
+  },
+  "en|books": {
+    "lang": "en",
+    "text": "books",
+    "say": "books"
+  },
+  "ar|كتابان": {
+    "lang": "ar",
+    "text": "كتابان",
+    "say": "كتابان"
+  },
+  "ru|две книги": {
+    "lang": "ru",
+    "text": "две книги",
+    "say": "две книги"
+  },
+  "ru|две": {
+    "lang": "ru",
+    "text": "две",
+    "say": "две"
+  },
+  "ru|книги": {
+    "lang": "ru",
+    "text": "книги",
+    "say": "книги"
+  },
+  "it|tre libri": {
+    "lang": "it",
+    "text": "tre libri",
+    "say": "tre libri"
+  },
+  "it|tre": {
+    "lang": "it",
+    "text": "tre",
+    "say": "tre"
+  },
+  "en|three books": {
+    "lang": "en",
+    "text": "three books",
+    "say": "three books"
+  },
+  "en|three": {
+    "lang": "en",
+    "text": "three",
+    "say": "three"
+  },
+  "ar|ثلاثة كتب": {
+    "lang": "ar",
+    "text": "ثلاثة كتب",
+    "say": "ثلاثة كتب"
+  },
+  "ar|ثلاثة": {
+    "lang": "ar",
+    "text": "ثلاثة",
+    "say": "ثلاثة"
+  },
+  "ar|كتب": {
+    "lang": "ar",
+    "text": "كتب",
+    "say": "كتب"
+  },
+  "ru|три книги": {
+    "lang": "ru",
+    "text": "три книги",
+    "say": "три книги"
+  },
+  "ru|три": {
+    "lang": "ru",
+    "text": "три",
+    "say": "три"
+  },
+  "it|io ho un libro": {
+    "lang": "it",
+    "text": "Io ho un libro.",
+    "say": "Io ho un libro."
+  },
+  "it|ho un libro": {
+    "lang": "it",
+    "text": "Ho un libro.",
+    "say": "Ho un libro."
+  },
+  "it|ho": {
+    "lang": "it",
+    "text": "ho",
+    "say": "ho"
+  },
+  "en|i have a book": {
+    "lang": "en",
+    "text": "I have a book.",
+    "say": "I have a book."
+  },
+  "en|have": {
+    "lang": "en",
+    "text": "have",
+    "say": "have"
+  },
+  "ar|عندي كتاب": {
+    "lang": "ar",
+    "text": "عندي كتاب.",
+    "say": "عندي كتاب."
+  },
+  "ar|عندي": {
+    "lang": "ar",
+    "text": "عندي",
+    "say": "عندي"
+  },
+  "ru|у меня есть книга": {
+    "lang": "ru",
+    "text": "У меня есть книга.",
+    "say": "У меня есть книга."
+  },
+  "ru|у": {
+    "lang": "ru",
+    "text": "У",
+    "say": "У"
+  },
+  "ru|меня": {
+    "lang": "ru",
+    "text": "меня",
+    "say": "меня"
+  },
+  "ru|есть": {
+    "lang": "ru",
+    "text": "есть",
+    "say": "есть"
+  },
+  "it|lei ha una casa": {
+    "lang": "it",
+    "text": "Lei ha una casa.",
+    "say": "Lei ha una casa."
+  },
+  "it|ha": {
+    "lang": "it",
+    "text": "ha",
+    "say": "ha"
+  },
+  "en|she has a house": {
+    "lang": "en",
+    "text": "She has a house.",
+    "say": "She has a house."
+  },
+  "en|has": {
+    "lang": "en",
+    "text": "has",
+    "say": "has"
+  },
+  "ar|عندها بيت": {
+    "lang": "ar",
+    "text": "عندها بيت.",
+    "say": "عندها بيت."
+  },
+  "ar|عندها": {
+    "lang": "ar",
+    "text": "عندها",
+    "say": "عندها"
+  },
+  "ru|у неё есть дом": {
+    "lang": "ru",
+    "text": "У неё есть дом.",
+    "say": "У неё есть дом."
+  },
+  "ru|неё": {
+    "lang": "ru",
+    "text": "неё",
+    "say": "неё"
+  },
+  "it|lui ha una penna": {
+    "lang": "it",
+    "text": "Lui ha una penna.",
+    "say": "Lui ha una penna."
+  },
+  "it|penna": {
+    "lang": "it",
+    "text": "penna",
+    "say": "penna"
+  },
+  "en|he has a pen": {
+    "lang": "en",
+    "text": "He has a pen.",
+    "say": "He has a pen."
+  },
+  "en|pen": {
+    "lang": "en",
+    "text": "pen",
+    "say": "pen"
+  },
+  "ar|عنده قلم": {
+    "lang": "ar",
+    "text": "عنده قلم.",
+    "say": "عنده قلم."
+  },
+  "ar|عنده": {
+    "lang": "ar",
+    "text": "عنده",
+    "say": "عنده"
+  },
+  "ar|قلم": {
+    "lang": "ar",
+    "text": "قلم",
+    "say": "قلم"
+  },
+  "ru|у него есть ручка": {
+    "lang": "ru",
+    "text": "У него есть ручка.",
+    "say": "У него есть ручка."
+  },
+  "ru|него": {
+    "lang": "ru",
+    "text": "него",
+    "say": "него"
+  },
+  "ru|ручка": {
+    "lang": "ru",
+    "text": "ручка",
+    "say": "ручка"
+  },
+  "it|dove abiti": {
+    "lang": "it",
+    "text": "Dove abiti?",
+    "say": "Dove abiti?"
+  },
+  "it|dove": {
+    "lang": "it",
+    "text": "Dove",
+    "say": "Dove"
+  },
+  "it|abiti": {
+    "lang": "it",
+    "text": "abiti",
+    "say": "abiti"
+  },
+  "en|where do you live": {
+    "lang": "en",
+    "text": "Where do you live?",
+    "say": "Where do you live?"
+  },
+  "en|where": {
+    "lang": "en",
+    "text": "Where",
+    "say": "Where"
+  },
+  "en|live": {
+    "lang": "en",
+    "text": "live",
+    "say": "live"
+  },
+  "ar|أين تسكن": {
+    "lang": "ar",
+    "text": "أين تسكن؟",
+    "say": "أين تسكن؟"
+  },
+  "ar|أين": {
+    "lang": "ar",
+    "text": "أين",
+    "say": "أين"
+  },
+  "ar|تسكن": {
+    "lang": "ar",
+    "text": "تسكن",
+    "say": "تسكن"
+  },
+  "ru|где ты живёшь": {
+    "lang": "ru",
+    "text": "Где ты живёшь?",
+    "say": "Где ты живёшь?"
+  },
+  "ru|где": {
+    "lang": "ru",
+    "text": "Где",
+    "say": "Где"
+  },
+  "ru|ты": {
+    "lang": "ru",
+    "text": "ты",
+    "say": "ты"
+  },
+  "ru|живёшь": {
+    "lang": "ru",
+    "text": "живёшь",
+    "say": "живёшь"
+  },
+  "it|che cosa leggi": {
+    "lang": "it",
+    "text": "Che cosa leggi?",
+    "say": "Che cosa leggi?"
+  },
+  "it|che": {
+    "lang": "it",
+    "text": "Che",
+    "say": "Che"
+  },
+  "it|cosa": {
+    "lang": "it",
+    "text": "cosa",
+    "say": "cosa"
+  },
+  "it|leggi": {
+    "lang": "it",
+    "text": "leggi",
+    "say": "leggi"
+  },
+  "en|what do you read": {
+    "lang": "en",
+    "text": "What do you read?",
+    "say": "What do you read?"
+  },
+  "en|what": {
+    "lang": "en",
+    "text": "What",
+    "say": "What"
+  },
+  "ar|ماذا تقرأ": {
+    "lang": "ar",
+    "text": "ماذا تقرأ؟",
+    "say": "ماذا تقرأ؟"
+  },
+  "ar|ماذا": {
+    "lang": "ar",
+    "text": "ماذا",
+    "say": "ماذا"
+  },
+  "ru|что ты читаешь": {
+    "lang": "ru",
+    "text": "Что ты читаешь?",
+    "say": "Что ты читаешь?"
+  },
+  "ru|что": {
+    "lang": "ru",
+    "text": "Что",
+    "say": "Что"
+  },
+  "ru|читаешь": {
+    "lang": "ru",
+    "text": "читаешь",
+    "say": "читаешь"
+  },
+  "it|parli inglese": {
+    "lang": "it",
+    "text": "Parli inglese?",
+    "say": "Parli inglese?"
+  },
+  "it|parli": {
+    "lang": "it",
+    "text": "Parli",
+    "say": "Parli"
+  },
+  "en|do you speak english": {
+    "lang": "en",
+    "text": "Do you speak English?",
+    "say": "Do you speak English?"
+  },
+  "ar|هل تتكلم الإنجليزية": {
+    "lang": "ar",
+    "text": "هل تتكلم الإنجليزية؟",
+    "say": "هل تتكلم الإنجليزية؟"
+  },
+  "ar|هل": {
+    "lang": "ar",
+    "text": "هل",
+    "say": "هل"
+  },
+  "ru|ты говоришь по-английски": {
+    "lang": "ru",
+    "text": "Ты говоришь по-английски?",
+    "say": "Ты говоришь по-английски?"
+  },
+  "ru|говоришь": {
+    "lang": "ru",
+    "text": "говоришь",
+    "say": "говоришь"
+  },
+  "it|i libri sono nuovi": {
+    "lang": "it",
+    "text": "I libri sono nuovi.",
+    "say": "I libri sono nuovi."
+  },
+  "it|i": {
+    "lang": "it",
+    "text": "I",
+    "say": "I"
+  },
+  "it|nuovi": {
+    "lang": "it",
+    "text": "nuovi",
+    "say": "nuovi"
+  },
+  "en|the books are new": {
+    "lang": "en",
+    "text": "The books are new.",
+    "say": "The books are new."
+  },
+  "en|are": {
+    "lang": "en",
+    "text": "are",
+    "say": "are"
+  },
+  "ar|الكتب جديدة": {
+    "lang": "ar",
+    "text": "الكتب جديدة.",
+    "say": "الكتب جديدة."
+  },
+  "ar|الكتب": {
+    "lang": "ar",
+    "text": "الكتب",
+    "say": "الكتب"
+  },
+  "ar|جديدة": {
+    "lang": "ar",
+    "text": "جديدة",
+    "say": "جديدة"
+  },
+  "ru|книги новые": {
+    "lang": "ru",
+    "text": "Книги новые.",
+    "say": "Книги новые."
+  },
+  "ru|новые": {
+    "lang": "ru",
+    "text": "новые",
+    "say": "новые"
+  },
+  "it|le case sono grandi": {
+    "lang": "it",
+    "text": "Le case sono grandi.",
+    "say": "Le case sono grandi."
+  },
+  "it|le": {
+    "lang": "it",
+    "text": "Le",
+    "say": "Le"
+  },
+  "it|case": {
+    "lang": "it",
+    "text": "case",
+    "say": "case"
+  },
+  "it|grandi": {
+    "lang": "it",
+    "text": "grandi",
+    "say": "grandi"
+  },
+  "en|the houses are big": {
+    "lang": "en",
+    "text": "The houses are big.",
+    "say": "The houses are big."
+  },
+  "en|houses": {
+    "lang": "en",
+    "text": "houses",
+    "say": "houses"
+  },
+  "ar|البيوت كبيرة": {
+    "lang": "ar",
+    "text": "البيوت كبيرة.",
+    "say": "البيوت كبيرة."
+  },
+  "ar|البيوت": {
+    "lang": "ar",
+    "text": "البيوت",
+    "say": "البيوت"
+  },
+  "ar|كبيرة": {
+    "lang": "ar",
+    "text": "كبيرة",
+    "say": "كبيرة"
+  },
+  "ru|дома большие": {
+    "lang": "ru",
+    "text": "Дома большие.",
+    "say": "Дома́ большие."
+  },
+  "ru|дома": {
+    "lang": "ru",
+    "text": "Дома",
+    "say": "Дома"
+  },
+  "ru|большие": {
+    "lang": "ru",
+    "text": "большие",
+    "say": "большие"
+  },
+  "it|le porte sono nuove": {
+    "lang": "it",
+    "text": "Le porte sono nuove.",
+    "say": "Le porte sono nuove."
+  },
+  "it|porte": {
+    "lang": "it",
+    "text": "porte",
+    "say": "porte"
+  },
+  "it|nuove": {
+    "lang": "it",
+    "text": "nuove",
+    "say": "nuove"
+  },
+  "en|the doors are new": {
+    "lang": "en",
+    "text": "The doors are new.",
+    "say": "The doors are new."
+  },
+  "en|doors": {
+    "lang": "en",
+    "text": "doors",
+    "say": "doors"
+  },
+  "ar|الأبواب جديدة": {
+    "lang": "ar",
+    "text": "الأبواب جديدة.",
+    "say": "الأبواب جديدة."
+  },
+  "ar|الأبواب": {
+    "lang": "ar",
+    "text": "الأبواب",
+    "say": "الأبواب"
+  },
+  "ru|двери новые": {
+    "lang": "ru",
+    "text": "Двери новые.",
+    "say": "Двери новые."
+  },
+  "ru|двери": {
+    "lang": "ru",
+    "text": "Двери",
+    "say": "Двери"
+  },
+  "it|anna ha letto un libro ieri": {
+    "lang": "it",
+    "text": "Anna ha letto un libro ieri.",
+    "say": "Anna ha letto un libro ieri."
+  },
+  "it|letto": {
+    "lang": "it",
+    "text": "letto",
+    "say": "letto"
+  },
+  "it|ieri": {
+    "lang": "it",
+    "text": "ieri",
+    "say": "ieri"
+  },
+  "en|anna read a book yesterday": {
+    "lang": "en",
+    "text": "Anna read a book yesterday.",
+    "say": "Anna red a book yesterday."
+  },
+  "en|read|past_0": {
+    "lang": "en",
+    "text": "read",
+    "say": "red",
+    "context": "past_0"
+  },
+  "en|yesterday": {
+    "lang": "en",
+    "text": "yesterday",
+    "say": "yesterday"
+  },
+  "ar|قرأت آنا كتابا أمس": {
+    "lang": "ar",
+    "text": "قرأت آنا كتابًا أمس.",
+    "say": "قرأت آنا كتابًا أمس."
+  },
+  "ar|قرأت": {
+    "lang": "ar",
+    "text": "قرأت",
+    "say": "قرأت"
+  },
+  "ar|أمس": {
+    "lang": "ar",
+    "text": "أمس",
+    "say": "أمس"
+  },
+  "ru|анна прочитала книгу вчера": {
+    "lang": "ru",
+    "text": "Анна прочитала книгу вчера.",
+    "say": "Анна прочитала книгу вчера."
+  },
+  "ru|прочитала": {
+    "lang": "ru",
+    "text": "прочитала",
+    "say": "прочитала"
+  },
+  "ru|вчера": {
+    "lang": "ru",
+    "text": "вчера",
+    "say": "вчера"
+  },
+  "it|marco ha bevuto tè ieri": {
+    "lang": "it",
+    "text": "Marco ha bevuto tè ieri.",
+    "say": "Marco ha bevuto tè ieri."
+  },
+  "it|bevuto": {
+    "lang": "it",
+    "text": "bevuto",
+    "say": "bevuto"
+  },
+  "en|marco drank tea yesterday": {
+    "lang": "en",
+    "text": "Marco drank tea yesterday.",
+    "say": "Marco drank tea yesterday."
+  },
+  "en|drank": {
+    "lang": "en",
+    "text": "drank",
+    "say": "drank"
+  },
+  "ar|شرب ماركو الشاي أمس": {
+    "lang": "ar",
+    "text": "شرب ماركو الشاي أمس.",
+    "say": "شرب ماركو الشاي أمس."
+  },
+  "ar|شرب": {
+    "lang": "ar",
+    "text": "شرب",
+    "say": "شرب"
+  },
+  "ru|марко пил чай вчера": {
+    "lang": "ru",
+    "text": "Марко пил чай вчера.",
+    "say": "Марко пил чай вчера."
+  },
+  "ru|пил": {
+    "lang": "ru",
+    "text": "пил",
+    "say": "пил"
+  },
+  "it|anna ha scritto una lettera ieri": {
+    "lang": "it",
+    "text": "Anna ha scritto una lettera ieri.",
+    "say": "Anna ha scritto una lettera ieri."
+  },
+  "it|scritto": {
+    "lang": "it",
+    "text": "scritto",
+    "say": "scritto"
+  },
+  "it|lettera": {
+    "lang": "it",
+    "text": "lettera",
+    "say": "lettera"
+  },
+  "en|anna wrote a letter yesterday": {
+    "lang": "en",
+    "text": "Anna wrote a letter yesterday.",
+    "say": "Anna wrote a letter yesterday."
+  },
+  "en|wrote": {
+    "lang": "en",
+    "text": "wrote",
+    "say": "wrote"
+  },
+  "en|letter": {
+    "lang": "en",
+    "text": "letter",
+    "say": "letter"
+  },
+  "ar|كتبت آنا رسالة أمس": {
+    "lang": "ar",
+    "text": "كتبت آنا رسالة أمس.",
+    "say": "كتبت آنا رسالة أمس."
+  },
+  "ar|كتبت": {
+    "lang": "ar",
+    "text": "كتبت",
+    "say": "كتبت"
+  },
+  "ar|رسالة": {
+    "lang": "ar",
+    "text": "رسالة",
+    "say": "رسالة"
+  },
+  "ru|анна написала письмо вчера": {
+    "lang": "ru",
+    "text": "Анна написала письмо вчера.",
+    "say": "Анна написала письмо вчера."
+  },
+  "ru|написала": {
+    "lang": "ru",
+    "text": "написала",
+    "say": "написала"
+  },
+  "ru|письмо": {
+    "lang": "ru",
+    "text": "письмо",
+    "say": "письмо"
+  },
+  "it|domani leggerò un libro": {
+    "lang": "it",
+    "text": "Domani leggerò un libro.",
+    "say": "Domani leggerò un libro."
+  },
+  "it|domani": {
+    "lang": "it",
+    "text": "Domani",
+    "say": "Domani"
+  },
+  "it|leggerò": {
+    "lang": "it",
+    "text": "leggerò",
+    "say": "leggerò"
+  },
+  "en|tomorrow i will read a book": {
+    "lang": "en",
+    "text": "Tomorrow I will read a book.",
+    "say": "Tomorrow I will read a book."
+  },
+  "en|tomorrow": {
+    "lang": "en",
+    "text": "Tomorrow",
+    "say": "Tomorrow"
+  },
+  "en|will": {
+    "lang": "en",
+    "text": "will",
+    "say": "will"
+  },
+  "ar|غدا سأقرأ كتابا": {
+    "lang": "ar",
+    "text": "غدًا سأقرأ كتابًا.",
+    "say": "غدًا سأقرأ كتابًا."
+  },
+  "ar|غدا": {
+    "lang": "ar",
+    "text": "غدًا",
+    "say": "غدًا"
+  },
+  "ar|سأقرأ": {
+    "lang": "ar",
+    "text": "سأقرأ",
+    "say": "سأقرأ"
+  },
+  "ru|завтра я прочитаю книгу": {
+    "lang": "ru",
+    "text": "Завтра я прочитаю книгу.",
+    "say": "Завтра я прочитаю книгу."
+  },
+  "ru|завтра": {
+    "lang": "ru",
+    "text": "Завтра",
+    "say": "Завтра"
+  },
+  "ru|прочитаю": {
+    "lang": "ru",
+    "text": "прочитаю",
+    "say": "прочитаю"
+  },
+  "it|domani scriverò una lettera": {
+    "lang": "it",
+    "text": "Domani scriverò una lettera.",
+    "say": "Domani scriverò una lettera."
+  },
+  "it|scriverò": {
+    "lang": "it",
+    "text": "scriverò",
+    "say": "scriverò"
+  },
+  "en|tomorrow i will write a letter": {
+    "lang": "en",
+    "text": "Tomorrow I will write a letter.",
+    "say": "Tomorrow I will write a letter."
+  },
+  "en|write": {
+    "lang": "en",
+    "text": "write",
+    "say": "write"
+  },
+  "ar|غدا سأكتب رسالة": {
+    "lang": "ar",
+    "text": "غدًا سأكتب رسالة.",
+    "say": "غدًا سأكتب رسالة."
+  },
+  "ar|سأكتب": {
+    "lang": "ar",
+    "text": "سأكتب",
+    "say": "سأكتب"
+  },
+  "ru|завтра я напишу письмо": {
+    "lang": "ru",
+    "text": "Завтра я напишу письмо.",
+    "say": "Завтра я напишу письмо."
+  },
+  "ru|напишу": {
+    "lang": "ru",
+    "text": "напишу",
+    "say": "напишу"
+  },
+  "it|domani andrò a scuola": {
+    "lang": "it",
+    "text": "Domani andrò a scuola.",
+    "say": "Domani andrò a scuola."
+  },
+  "it|andrò": {
+    "lang": "it",
+    "text": "andrò",
+    "say": "andrò"
+  },
+  "it|a": {
+    "lang": "it",
+    "text": "a",
+    "say": "a"
+  },
+  "en|tomorrow i will go to school": {
+    "lang": "en",
+    "text": "Tomorrow I will go to school.",
+    "say": "Tomorrow I will go to school."
+  },
+  "en|go": {
+    "lang": "en",
+    "text": "go",
+    "say": "go"
+  },
+  "en|to": {
+    "lang": "en",
+    "text": "to",
+    "say": "to"
+  },
+  "ar|غدا سأذهب إلى المدرسة": {
+    "lang": "ar",
+    "text": "غدًا سأذهب إلى المدرسة.",
+    "say": "غدًا سأذهب إلى المدرسة."
+  },
+  "ar|سأذهب": {
+    "lang": "ar",
+    "text": "سأذهب",
+    "say": "سأذهب"
+  },
+  "ar|إلى": {
+    "lang": "ar",
+    "text": "إلى",
+    "say": "إلى"
+  },
+  "ar|المدرسة": {
+    "lang": "ar",
+    "text": "المدرسة",
+    "say": "المدرسة"
+  },
+  "ru|завтра я пойду в школу": {
+    "lang": "ru",
+    "text": "Завтра я пойду в школу.",
+    "say": "Завтра я пойду в школу."
+  },
+  "ru|пойду": {
+    "lang": "ru",
+    "text": "пойду",
+    "say": "пойду"
+  },
+  "ru|в": {
+    "lang": "ru",
+    "text": "в",
+    "say": "в"
+  },
+  "ru|школу": {
+    "lang": "ru",
+    "text": "школу",
+    "say": "школу"
+  },
+  "it|io posso leggere questo libro": {
+    "lang": "it",
+    "text": "Io posso leggere questo libro.",
+    "say": "Io posso leggere questo libro."
+  },
+  "it|posso leggere questo libro": {
+    "lang": "it",
+    "text": "Posso leggere questo libro.",
+    "say": "Posso leggere questo libro."
+  },
+  "it|posso": {
+    "lang": "it",
+    "text": "posso",
+    "say": "posso"
+  },
+  "it|leggere": {
+    "lang": "it",
+    "text": "leggere",
+    "say": "leggere"
+  },
+  "en|i can read this book": {
+    "lang": "en",
+    "text": "I can read this book.",
+    "say": "I can read this book."
+  },
+  "en|can": {
+    "lang": "en",
+    "text": "can",
+    "say": "can"
+  },
+  "ar|أستطيع قراءة هذا الكتاب": {
+    "lang": "ar",
+    "text": "أستطيع قراءة هذا الكتاب.",
+    "say": "أستطيع قراءة هذا الكتاب."
+  },
+  "ar|أستطيع": {
+    "lang": "ar",
+    "text": "أستطيع",
+    "say": "أستطيع"
+  },
+  "ar|قراءة": {
+    "lang": "ar",
+    "text": "قراءة",
+    "say": "قراءة"
+  },
+  "ru|я могу прочитать эту книгу": {
+    "lang": "ru",
+    "text": "Я могу прочитать эту книгу.",
+    "say": "Я могу прочитать эту книгу."
+  },
+  "ru|могу": {
+    "lang": "ru",
+    "text": "могу",
+    "say": "могу"
+  },
+  "ru|прочитать": {
+    "lang": "ru",
+    "text": "прочитать",
+    "say": "прочитать"
+  },
+  "ru|эту": {
+    "lang": "ru",
+    "text": "эту",
+    "say": "эту"
+  },
+  "it|lei può aprire la porta": {
+    "lang": "it",
+    "text": "Lei può aprire la porta.",
+    "say": "Lei può aprire la porta."
+  },
+  "it|può": {
+    "lang": "it",
+    "text": "può",
+    "say": "può"
+  },
+  "it|aprire": {
+    "lang": "it",
+    "text": "aprire",
+    "say": "aprire"
+  },
+  "en|she can open the door": {
+    "lang": "en",
+    "text": "She can open the door.",
+    "say": "She can open the door."
+  },
+  "en|open": {
+    "lang": "en",
+    "text": "open",
+    "say": "open"
+  },
+  "ar|تستطيع فتح الباب": {
+    "lang": "ar",
+    "text": "تستطيع فتح الباب.",
+    "say": "تستطيع فتح الباب."
+  },
+  "ar|تستطيع": {
+    "lang": "ar",
+    "text": "تستطيع",
+    "say": "تستطيع"
+  },
+  "ar|فتح": {
+    "lang": "ar",
+    "text": "فتح",
+    "say": "فتح"
+  },
+  "ru|она может открыть дверь": {
+    "lang": "ru",
+    "text": "Она может открыть дверь.",
+    "say": "Она может открыть дверь."
+  },
+  "ru|может": {
+    "lang": "ru",
+    "text": "может",
+    "say": "может"
+  },
+  "ru|открыть": {
+    "lang": "ru",
+    "text": "открыть",
+    "say": "открыть"
+  },
+  "it|noi possiamo aiutare marco": {
+    "lang": "it",
+    "text": "Noi possiamo aiutare Marco.",
+    "say": "Noi possiamo aiutare Marco."
+  },
+  "it|noi": {
+    "lang": "it",
+    "text": "Noi",
+    "say": "Noi"
+  },
+  "it|possiamo": {
+    "lang": "it",
+    "text": "possiamo",
+    "say": "possiamo"
+  },
+  "it|aiutare": {
+    "lang": "it",
+    "text": "aiutare",
+    "say": "aiutare"
+  },
+  "en|we can help marco": {
+    "lang": "en",
+    "text": "We can help Marco.",
+    "say": "We can help Marco."
+  },
+  "en|we": {
+    "lang": "en",
+    "text": "We",
+    "say": "We"
+  },
+  "en|help": {
+    "lang": "en",
+    "text": "help",
+    "say": "help"
+  },
+  "ar|نستطيع مساعدة ماركو": {
+    "lang": "ar",
+    "text": "نستطيع مساعدة ماركو.",
+    "say": "نستطيع مساعدة ماركو."
+  },
+  "ar|نستطيع": {
+    "lang": "ar",
+    "text": "نستطيع",
+    "say": "نستطيع"
+  },
+  "ar|مساعدة": {
+    "lang": "ar",
+    "text": "مساعدة",
+    "say": "مساعدة"
+  },
+  "ru|мы можем помочь марко": {
+    "lang": "ru",
+    "text": "Мы можем помочь Марко.",
+    "say": "Мы можем помочь Марко."
+  },
+  "ru|мы": {
+    "lang": "ru",
+    "text": "Мы",
+    "say": "Мы"
+  },
+  "ru|можем": {
+    "lang": "ru",
+    "text": "можем",
+    "say": "можем"
+  },
+  "ru|помочь": {
+    "lang": "ru",
+    "text": "помочь",
+    "say": "помочь"
+  },
+  "it|mi piace questo libro": {
+    "lang": "it",
+    "text": "Mi piace questo libro.",
+    "say": "Mi piace questo libro."
+  },
+  "it|mi": {
+    "lang": "it",
+    "text": "Mi",
+    "say": "Mi"
+  },
+  "it|piace": {
+    "lang": "it",
+    "text": "piace",
+    "say": "piace"
+  },
+  "en|i like this book": {
+    "lang": "en",
+    "text": "I like this book.",
+    "say": "I like this book."
+  },
+  "en|like": {
+    "lang": "en",
+    "text": "like",
+    "say": "like"
+  },
+  "ar|يعجبني هذا الكتاب": {
+    "lang": "ar",
+    "text": "يعجبني هذا الكتاب.",
+    "say": "يعجبني هذا الكتاب."
+  },
+  "ar|يعجبني": {
+    "lang": "ar",
+    "text": "يعجبني",
+    "say": "يعجبني"
+  },
+  "ru|мне нравится эта книга": {
+    "lang": "ru",
+    "text": "Мне нравится эта книга.",
+    "say": "Мне нравится эта книга."
+  },
+  "ru|мне": {
+    "lang": "ru",
+    "text": "Мне",
+    "say": "Мне"
+  },
+  "ru|нравится": {
+    "lang": "ru",
+    "text": "нравится",
+    "say": "нравится"
+  },
+  "ru|эта": {
+    "lang": "ru",
+    "text": "эта",
+    "say": "эта"
+  },
+  "it|mi piacciono questi libri": {
+    "lang": "it",
+    "text": "Mi piacciono questi libri.",
+    "say": "Mi piacciono questi libri."
+  },
+  "it|piacciono": {
+    "lang": "it",
+    "text": "piacciono",
+    "say": "piacciono"
+  },
+  "it|questi": {
+    "lang": "it",
+    "text": "questi",
+    "say": "questi"
+  },
+  "en|i like these books": {
+    "lang": "en",
+    "text": "I like these books.",
+    "say": "I like these books."
+  },
+  "en|these": {
+    "lang": "en",
+    "text": "these",
+    "say": "these"
+  },
+  "ar|تعجبني هذه الكتب": {
+    "lang": "ar",
+    "text": "تعجبني هذه الكتب.",
+    "say": "تعجبني هذه الكتب."
+  },
+  "ar|تعجبني": {
+    "lang": "ar",
+    "text": "تعجبني",
+    "say": "تعجبني"
+  },
+  "ru|мне нравятся эти книги": {
+    "lang": "ru",
+    "text": "Мне нравятся эти книги.",
+    "say": "Мне нравятся эти книги."
+  },
+  "ru|нравятся": {
+    "lang": "ru",
+    "text": "нравятся",
+    "say": "нравятся"
+  },
+  "ru|эти": {
+    "lang": "ru",
+    "text": "эти",
+    "say": "эти"
+  },
+  "it|mi piace leggere": {
+    "lang": "it",
+    "text": "Mi piace leggere.",
+    "say": "Mi piace leggere."
+  },
+  "en|i like reading": {
+    "lang": "en",
+    "text": "I like reading.",
+    "say": "I like reading."
+  },
+  "en|reading": {
+    "lang": "en",
+    "text": "reading",
+    "say": "reading"
+  },
+  "ar|تعجبني القراءة": {
+    "lang": "ar",
+    "text": "تعجبني القراءة.",
+    "say": "تعجبني القراءة."
+  },
+  "ar|القراءة": {
+    "lang": "ar",
+    "text": "القراءة",
+    "say": "القراءة"
+  },
+  "ru|мне нравится читать": {
+    "lang": "ru",
+    "text": "Мне нравится читать.",
+    "say": "Мне нравится читать."
+  },
+  "ru|читать": {
+    "lang": "ru",
+    "text": "читать",
+    "say": "читать"
+  },
+  "it|questa casa è più grande": {
+    "lang": "it",
+    "text": "Questa casa è più grande.",
+    "say": "Questa casa è più grande."
+  },
+  "it|più": {
+    "lang": "it",
+    "text": "più",
+    "say": "più"
+  },
+  "en|this house is bigger": {
+    "lang": "en",
+    "text": "This house is bigger.",
+    "say": "This house is bigger."
+  },
+  "en|bigger": {
+    "lang": "en",
+    "text": "bigger",
+    "say": "bigger"
+  },
+  "ar|هذا البيت أكبر": {
+    "lang": "ar",
+    "text": "هذا البيت أكبر.",
+    "say": "هذا البيت أكبر."
+  },
+  "ar|أكبر": {
+    "lang": "ar",
+    "text": "أكبر",
+    "say": "أكبر"
+  },
+  "ru|этот дом больше": {
+    "lang": "ru",
+    "text": "Этот дом больше.",
+    "say": "Этот дом больше."
+  },
+  "ru|этот": {
+    "lang": "ru",
+    "text": "Этот",
+    "say": "Этот"
+  },
+  "ru|больше": {
+    "lang": "ru",
+    "text": "больше",
+    "say": "больше"
+  },
+  "it|questo libro è più interessante": {
+    "lang": "it",
+    "text": "Questo libro è più interessante.",
+    "say": "Questo libro è più interessante."
+  },
+  "it|interessante": {
+    "lang": "it",
+    "text": "interessante",
+    "say": "interessante"
+  },
+  "en|this book is more interesting": {
+    "lang": "en",
+    "text": "This book is more interesting.",
+    "say": "This book is more interesting."
+  },
+  "en|more": {
+    "lang": "en",
+    "text": "more",
+    "say": "more"
+  },
+  "en|interesting": {
+    "lang": "en",
+    "text": "interesting",
+    "say": "interesting"
+  },
+  "ar|هذا الكتاب أكثر إثارة للاهتمام": {
+    "lang": "ar",
+    "text": "هذا الكتاب أكثر إثارة للاهتمام.",
+    "say": "هذا الكتاب أكثر إثارة للاهتمام."
+  },
+  "ar|أكثر": {
+    "lang": "ar",
+    "text": "أكثر",
+    "say": "أكثر"
+  },
+  "ar|إثارة": {
+    "lang": "ar",
+    "text": "إثارة",
+    "say": "إثارة"
+  },
+  "ar|للاهتمام": {
+    "lang": "ar",
+    "text": "للاهتمام",
+    "say": "للاهتمام"
+  },
+  "ru|эта книга интереснее": {
+    "lang": "ru",
+    "text": "Эта книга интереснее.",
+    "say": "Эта книга интереснее."
+  },
+  "ru|интереснее": {
+    "lang": "ru",
+    "text": "интереснее",
+    "say": "интереснее"
+  },
+  "it|questo tè è migliore": {
+    "lang": "it",
+    "text": "Questo tè è migliore.",
+    "say": "Questo tè è migliore."
+  },
+  "it|migliore": {
+    "lang": "it",
+    "text": "migliore",
+    "say": "migliore"
+  },
+  "en|this tea is better": {
+    "lang": "en",
+    "text": "This tea is better.",
+    "say": "This tea is better."
+  },
+  "en|better": {
+    "lang": "en",
+    "text": "better",
+    "say": "better"
+  },
+  "ar|هذا الشاي أفضل": {
+    "lang": "ar",
+    "text": "هذا الشاي أفضل.",
+    "say": "هذا الشاي أفضل."
+  },
+  "ar|أفضل": {
+    "lang": "ar",
+    "text": "أفضل",
+    "say": "أفضل"
+  },
+  "ru|этот чай лучше": {
+    "lang": "ru",
+    "text": "Этот чай лучше.",
+    "say": "Этот чай лучше."
+  },
+  "ru|лучше": {
+    "lang": "ru",
+    "text": "лучше",
+    "say": "лучше"
+  },
+  "it|leggo perché mi piace": {
+    "lang": "it",
+    "text": "Leggo perché mi piace.",
+    "say": "Leggo perché mi piace."
+  },
+  "it|perché": {
+    "lang": "it",
+    "text": "perché",
+    "say": "perché"
+  },
+  "en|i read because i like it": {
+    "lang": "en",
+    "text": "I read because I like it.",
+    "say": "I read because I like it."
+  },
+  "en|because": {
+    "lang": "en",
+    "text": "because",
+    "say": "because"
+  },
+  "en|it": {
+    "lang": "en",
+    "text": "it",
+    "say": "it"
+  },
+  "ar|أقرأ لأنني أحب القراءة": {
+    "lang": "ar",
+    "text": "أقرأ لأنني أحب القراءة.",
+    "say": "أقرأ لأنني أحب القراءة."
+  },
+  "ar|لأنني": {
+    "lang": "ar",
+    "text": "لأنني",
+    "say": "لأنني"
+  },
+  "ar|أحب": {
+    "lang": "ar",
+    "text": "أحب",
+    "say": "أحب"
+  },
+  "ru|я читаю потому что мне это нравится": {
+    "lang": "ru",
+    "text": "Я читаю, потому что мне это нравится.",
+    "say": "Я читаю, потому что мне это нравится."
+  },
+  "ru|потому": {
+    "lang": "ru",
+    "text": "потому",
+    "say": "потому"
+  },
+  "it|bevo acqua perché ho sete": {
+    "lang": "it",
+    "text": "Bevo acqua perché ho sete.",
+    "say": "Bevo acqua perché ho sete."
+  },
+  "it|sete": {
+    "lang": "it",
+    "text": "sete",
+    "say": "sete"
+  },
+  "en|i drink water because i am thirsty": {
+    "lang": "en",
+    "text": "I drink water because I am thirsty.",
+    "say": "I drink water because I am thirsty."
+  },
+  "en|thirsty": {
+    "lang": "en",
+    "text": "thirsty",
+    "say": "thirsty"
+  },
+  "ar|أشرب الماء لأنني عطشان": {
+    "lang": "ar",
+    "text": "أشرب الماء لأنني عطشان.",
+    "say": "أشرب الماء لأنني عطشان."
+  },
+  "ar|أشرب الماء لأنني عطشانة": {
+    "lang": "ar",
+    "text": "أشرب الماء لأنني عطشانة.",
+    "say": "أشرب الماء لأنني عطشانة."
+  },
+  "ar|عطشان": {
+    "lang": "ar",
+    "text": "عطشان",
+    "say": "عطشان"
+  },
+  "ru|я пью воду потому что хочу пить": {
+    "lang": "ru",
+    "text": "Я пью воду, потому что хочу пить.",
+    "say": "Я пью воду, потому что хочу пить."
+  },
+  "ru|хочу": {
+    "lang": "ru",
+    "text": "хочу",
+    "say": "хочу"
+  },
+  "ru|пить": {
+    "lang": "ru",
+    "text": "пить",
+    "say": "пить"
+  },
+  "it|studio perché voglio imparare": {
+    "lang": "it",
+    "text": "Studio perché voglio imparare.",
+    "say": "Studio perché voglio imparare."
+  },
+  "it|studio": {
+    "lang": "it",
+    "text": "Studio",
+    "say": "Studio"
+  },
+  "it|voglio": {
+    "lang": "it",
+    "text": "voglio",
+    "say": "voglio"
+  },
+  "it|imparare": {
+    "lang": "it",
+    "text": "imparare",
+    "say": "imparare"
+  },
+  "en|i study because i want to learn": {
+    "lang": "en",
+    "text": "I study because I want to learn.",
+    "say": "I study because I want to learn."
+  },
+  "en|study": {
+    "lang": "en",
+    "text": "study",
+    "say": "study"
+  },
+  "en|want": {
+    "lang": "en",
+    "text": "want",
+    "say": "want"
+  },
+  "en|learn": {
+    "lang": "en",
+    "text": "learn",
+    "say": "learn"
+  },
+  "ar|أدرس لأنني أريد أن أتعلم": {
+    "lang": "ar",
+    "text": "أدرس لأنني أريد أن أتعلم.",
+    "say": "أدرس لأنني أريد أن أتعلم."
+  },
+  "ar|أدرس": {
+    "lang": "ar",
+    "text": "أدرس",
+    "say": "أدرس"
+  },
+  "ar|أريد": {
+    "lang": "ar",
+    "text": "أريد",
+    "say": "أريد"
+  },
+  "ar|أن": {
+    "lang": "ar",
+    "text": "أن",
+    "say": "أن"
+  },
+  "ar|أتعلم": {
+    "lang": "ar",
+    "text": "أتعلم",
+    "say": "أتعلم"
+  },
+  "ru|я учусь потому что хочу научиться": {
+    "lang": "ru",
+    "text": "Я учусь, потому что хочу научиться.",
+    "say": "Я учусь, потому что хочу научиться."
+  },
+  "ru|учусь": {
+    "lang": "ru",
+    "text": "учусь",
+    "say": "учусь"
+  },
+  "ru|научиться": {
+    "lang": "ru",
+    "text": "научиться",
+    "say": "научиться"
+  },
+  "it|io lo leggo": {
+    "lang": "it",
+    "text": "Io lo leggo.",
+    "say": "Io lo leggo."
+  },
+  "it|lo leggo": {
+    "lang": "it",
+    "text": "Lo leggo.",
+    "say": "Lo leggo."
+  },
+  "it|lo": {
+    "lang": "it",
+    "text": "lo",
+    "say": "lo"
+  },
+  "en|i read it": {
+    "lang": "en",
+    "text": "I read it.",
+    "say": "I read it."
+  },
+  "ar|أنا أقرؤه": {
+    "lang": "ar",
+    "text": "أنا أقرؤه.",
+    "say": "أنا أقرؤه."
+  },
+  "ar|أقرؤه": {
+    "lang": "ar",
+    "text": "أقرؤه",
+    "say": "أقرؤه"
+  },
+  "ru|я читаю её": {
+    "lang": "ru",
+    "text": "Я читаю её.",
+    "say": "Я читаю её."
+  },
+  "ru|её": {
+    "lang": "ru",
+    "text": "её",
+    "say": "её"
+  },
+  "it|lei la apre": {
+    "lang": "it",
+    "text": "Lei la apre.",
+    "say": "Lei la apre."
+  },
+  "it|apre": {
+    "lang": "it",
+    "text": "apre",
+    "say": "apre"
+  },
+  "en|she opens it": {
+    "lang": "en",
+    "text": "She opens it.",
+    "say": "She opens it."
+  },
+  "en|opens": {
+    "lang": "en",
+    "text": "opens",
+    "say": "opens"
+  },
+  "ar|هي تفتحه": {
+    "lang": "ar",
+    "text": "هي تفتحه.",
+    "say": "هي تفتحه."
+  },
+  "ar|تفتحه": {
+    "lang": "ar",
+    "text": "تفتحه",
+    "say": "تفتحه"
+  },
+  "ru|она открывает её": {
+    "lang": "ru",
+    "text": "Она открывает её.",
+    "say": "Она открывает её."
+  },
+  "ru|открывает": {
+    "lang": "ru",
+    "text": "открывает",
+    "say": "открывает"
+  },
+  "it|noi li compriamo": {
+    "lang": "it",
+    "text": "Noi li compriamo.",
+    "say": "Noi li compriamo."
+  },
+  "it|li": {
+    "lang": "it",
+    "text": "li",
+    "say": "li"
+  },
+  "it|compriamo": {
+    "lang": "it",
+    "text": "compriamo",
+    "say": "compriamo"
+  },
+  "en|we buy them": {
+    "lang": "en",
+    "text": "We buy them.",
+    "say": "We buy them."
+  },
+  "en|buy": {
+    "lang": "en",
+    "text": "buy",
+    "say": "buy"
+  },
+  "en|them": {
+    "lang": "en",
+    "text": "them",
+    "say": "them"
+  },
+  "ar|نحن نشتريها": {
+    "lang": "ar",
+    "text": "نحن نشتريها.",
+    "say": "نحن نشتريها."
+  },
+  "ar|نحن": {
+    "lang": "ar",
+    "text": "نحن",
+    "say": "نحن"
+  },
+  "ar|نشتريها": {
+    "lang": "ar",
+    "text": "نشتريها",
+    "say": "نشتريها"
+  },
+  "ru|мы покупаем их": {
+    "lang": "ru",
+    "text": "Мы покупаем их.",
+    "say": "Мы покупаем их."
+  },
+  "ru|покупаем": {
+    "lang": "ru",
+    "text": "покупаем",
+    "say": "покупаем"
+  },
+  "ru|их": {
+    "lang": "ru",
+    "text": "их",
+    "say": "их"
+  },
+  "it|questo è il libro che leggo": {
+    "lang": "it",
+    "text": "Questo è il libro che leggo.",
+    "say": "Questo è il libro che leggo."
+  },
+  "en|this is the book that i read": {
+    "lang": "en",
+    "text": "This is the book that I read.",
+    "say": "This is the book that I read."
+  },
+  "en|this is the book i read": {
+    "lang": "en",
+    "text": "This is the book I read.",
+    "say": "This is the book I read."
+  },
+  "en|that": {
+    "lang": "en",
+    "text": "that",
+    "say": "that"
+  },
+  "ar|هذا هو الكتاب الذي أقرؤه": {
+    "lang": "ar",
+    "text": "هذا هو الكتاب الذي أقرؤه.",
+    "say": "هذا هو الكتاب الذي أقرؤه."
+  },
+  "ar|الذي": {
+    "lang": "ar",
+    "text": "الذي",
+    "say": "الذي"
+  },
+  "ru|это книга которую я читаю": {
+    "lang": "ru",
+    "text": "Это книга, которую я читаю.",
+    "say": "Это книга, которую я читаю."
+  },
+  "ru|которую": {
+    "lang": "ru",
+    "text": "которую",
+    "say": "которую"
+  },
+  "it|questa è la casa che vedo": {
+    "lang": "it",
+    "text": "Questa è la casa che vedo.",
+    "say": "Questa è la casa che vedo."
+  },
+  "it|vedo": {
+    "lang": "it",
+    "text": "vedo",
+    "say": "vedo"
+  },
+  "en|this is the house that i see": {
+    "lang": "en",
+    "text": "This is the house that I see.",
+    "say": "This is the house that I see."
+  },
+  "en|this is the house i see": {
+    "lang": "en",
+    "text": "This is the house I see.",
+    "say": "This is the house I see."
+  },
+  "en|see": {
+    "lang": "en",
+    "text": "see",
+    "say": "see"
+  },
+  "ar|هذا هو البيت الذي أراه": {
+    "lang": "ar",
+    "text": "هذا هو البيت الذي أراه.",
+    "say": "هذا هو البيت الذي أراه."
+  },
+  "ar|أراه": {
+    "lang": "ar",
+    "text": "أراه",
+    "say": "أراه"
+  },
+  "ru|это дом который я вижу": {
+    "lang": "ru",
+    "text": "Это дом, который я вижу.",
+    "say": "Это дом, который я вижу."
+  },
+  "ru|который": {
+    "lang": "ru",
+    "text": "который",
+    "say": "который"
+  },
+  "ru|вижу": {
+    "lang": "ru",
+    "text": "вижу",
+    "say": "вижу"
+  },
+  "it|questa è la porta che apro": {
+    "lang": "it",
+    "text": "Questa è la porta che apro.",
+    "say": "Questa è la porta che apro."
+  },
+  "it|apro": {
+    "lang": "it",
+    "text": "apro",
+    "say": "apro"
+  },
+  "en|this is the door that i open": {
+    "lang": "en",
+    "text": "This is the door that I open.",
+    "say": "This is the door that I open."
+  },
+  "en|this is the door i open": {
+    "lang": "en",
+    "text": "This is the door I open.",
+    "say": "This is the door I open."
+  },
+  "ar|هذا هو الباب الذي أفتحه": {
+    "lang": "ar",
+    "text": "هذا هو الباب الذي أفتحه.",
+    "say": "هذا هو الباب الذي أفتحه."
+  },
+  "ar|أفتحه": {
+    "lang": "ar",
+    "text": "أفتحه",
+    "say": "أفتحه"
+  },
+  "ru|это дверь которую я открываю": {
+    "lang": "ru",
+    "text": "Это дверь, которую я открываю.",
+    "say": "Это дверь, которую я открываю."
+  },
+  "ru|открываю": {
+    "lang": "ru",
+    "text": "открываю",
+    "say": "открываю"
+  },
+  "it|se ho tempo leggo": {
+    "lang": "it",
+    "text": "Se ho tempo, leggo.",
+    "say": "Se ho tempo, leggo."
+  },
+  "it|se": {
+    "lang": "it",
+    "text": "Se",
+    "say": "Se"
+  },
+  "it|tempo": {
+    "lang": "it",
+    "text": "tempo",
+    "say": "tempo"
+  },
+  "en|if i have time i read": {
+    "lang": "en",
+    "text": "If I have time, I read.",
+    "say": "If I have time, I read."
+  },
+  "en|if": {
+    "lang": "en",
+    "text": "If",
+    "say": "If"
+  },
+  "en|time": {
+    "lang": "en",
+    "text": "time",
+    "say": "time"
+  },
+  "ar|إذا كان عندي وقت أقرأ": {
+    "lang": "ar",
+    "text": "إذا كان عندي وقت، أقرأ.",
+    "say": "إذا كان عندي وقت، أقرأ."
+  },
+  "ar|إذا": {
+    "lang": "ar",
+    "text": "إذا",
+    "say": "إذا"
+  },
+  "ar|كان": {
+    "lang": "ar",
+    "text": "كان",
+    "say": "كان"
+  },
+  "ar|وقت": {
+    "lang": "ar",
+    "text": "وقت",
+    "say": "وقت"
+  },
+  "ru|если у меня есть время я читаю": {
+    "lang": "ru",
+    "text": "Если у меня есть время, я читаю.",
+    "say": "Если у меня есть время, я читаю."
+  },
+  "ru|если": {
+    "lang": "ru",
+    "text": "Если",
+    "say": "Если"
+  },
+  "ru|время": {
+    "lang": "ru",
+    "text": "время",
+    "say": "время"
+  },
+  "it|se ho sete bevo acqua": {
+    "lang": "it",
+    "text": "Se ho sete, bevo acqua.",
+    "say": "Se ho sete, bevo acqua."
+  },
+  "en|if i am thirsty i drink water": {
+    "lang": "en",
+    "text": "If I am thirsty, I drink water.",
+    "say": "If I am thirsty, I drink water."
+  },
+  "ar|إذا كنت عطشانا أشرب الماء": {
+    "lang": "ar",
+    "text": "إذا كنت عطشانًا، أشرب الماء.",
+    "say": "إذا كنت عطشانًا، أشرب الماء."
+  },
+  "ar|كنت": {
+    "lang": "ar",
+    "text": "كنت",
+    "say": "كنت"
+  },
+  "ar|عطشانا": {
+    "lang": "ar",
+    "text": "عطشانًا",
+    "say": "عطشانًا"
+  },
+  "ru|если я хочу пить я пью воду": {
+    "lang": "ru",
+    "text": "Если я хочу пить, я пью воду.",
+    "say": "Если я хочу пить, я пью воду."
+  },
+  "it|se piove resto a casa": {
+    "lang": "it",
+    "text": "Se piove, resto a casa.",
+    "say": "Se piove, resto a casa."
+  },
+  "it|piove": {
+    "lang": "it",
+    "text": "piove",
+    "say": "piove"
+  },
+  "it|resto": {
+    "lang": "it",
+    "text": "resto",
+    "say": "resto"
+  },
+  "en|if it rains i stay at home": {
+    "lang": "en",
+    "text": "If it rains, I stay at home.",
+    "say": "If it rains, I stay at home."
+  },
+  "en|rains": {
+    "lang": "en",
+    "text": "rains",
+    "say": "rains"
+  },
+  "en|stay": {
+    "lang": "en",
+    "text": "stay",
+    "say": "stay"
+  },
+  "en|at": {
+    "lang": "en",
+    "text": "at",
+    "say": "at"
+  },
+  "en|home": {
+    "lang": "en",
+    "text": "home",
+    "say": "home"
+  },
+  "ar|إذا أمطرت أبقى في البيت": {
+    "lang": "ar",
+    "text": "إذا أمطرت، أبقى في البيت.",
+    "say": "إذا أمطرت، أبقى في البيت."
+  },
+  "ar|أمطرت": {
+    "lang": "ar",
+    "text": "أمطرت",
+    "say": "أمطرت"
+  },
+  "ar|أبقى": {
+    "lang": "ar",
+    "text": "أبقى",
+    "say": "أبقى"
+  },
+  "ar|في": {
+    "lang": "ar",
+    "text": "في",
+    "say": "في"
+  },
+  "ru|если идёт дождь я остаюсь дома": {
+    "lang": "ru",
+    "text": "Если идёт дождь, я остаюсь дома.",
+    "say": "Если идёт дождь, я остаюсь дома."
+  },
+  "ru|идёт": {
+    "lang": "ru",
+    "text": "идёт",
+    "say": "идёт"
+  },
+  "ru|дождь": {
+    "lang": "ru",
+    "text": "дождь",
+    "say": "дождь"
+  },
+  "ru|остаюсь": {
+    "lang": "ru",
+    "text": "остаюсь",
+    "say": "остаюсь"
+  },
+  "it|anna ha già letto questo libro": {
+    "lang": "it",
+    "text": "Anna ha già letto questo libro.",
+    "say": "Anna ha già letto questo libro."
+  },
+  "it|già": {
+    "lang": "it",
+    "text": "già",
+    "say": "già"
+  },
+  "en|anna has already read this book": {
+    "lang": "en",
+    "text": "Anna has already read this book.",
+    "say": "Anna has already red this book."
+  },
+  "en|already": {
+    "lang": "en",
+    "text": "already",
+    "say": "already"
+  },
+  "en|read|experience_0": {
+    "lang": "en",
+    "text": "read",
+    "say": "red",
+    "context": "experience_0"
+  },
+  "ar|لقد قرأت آنا هذا الكتاب": {
+    "lang": "ar",
+    "text": "لقد قرأت آنا هذا الكتاب.",
+    "say": "لقد قرأت آنا هذا الكتاب."
+  },
+  "ar|لقد": {
+    "lang": "ar",
+    "text": "لقد",
+    "say": "لقد"
+  },
+  "ru|анна уже прочитала эту книгу": {
+    "lang": "ru",
+    "text": "Анна уже прочитала эту книгу.",
+    "say": "Анна уже прочитала эту книгу."
+  },
+  "ru|уже": {
+    "lang": "ru",
+    "text": "уже",
+    "say": "уже"
+  },
+  "it|marco ha già scritto la lettera": {
+    "lang": "it",
+    "text": "Marco ha già scritto la lettera.",
+    "say": "Marco ha già scritto la lettera."
+  },
+  "en|marco has already written the letter": {
+    "lang": "en",
+    "text": "Marco has already written the letter.",
+    "say": "Marco has already written the letter."
+  },
+  "en|written": {
+    "lang": "en",
+    "text": "written",
+    "say": "written"
+  },
+  "ar|لقد كتب ماركو الرسالة": {
+    "lang": "ar",
+    "text": "لقد كتب ماركو الرسالة.",
+    "say": "لقد كتب ماركو الرسالة."
+  },
+  "ar|الرسالة": {
+    "lang": "ar",
+    "text": "الرسالة",
+    "say": "الرسالة"
+  },
+  "ru|марко уже написал письмо": {
+    "lang": "ru",
+    "text": "Марко уже написал письмо.",
+    "say": "Марко уже написал письмо."
+  },
+  "ru|написал": {
+    "lang": "ru",
+    "text": "написал",
+    "say": "написал"
+  },
+  "it|anna ha già aperto la porta": {
+    "lang": "it",
+    "text": "Anna ha già aperto la porta.",
+    "say": "Anna ha già aperto la porta."
+  },
+  "it|aperto": {
+    "lang": "it",
+    "text": "aperto",
+    "say": "aperto"
+  },
+  "en|anna has already opened the door": {
+    "lang": "en",
+    "text": "Anna has already opened the door.",
+    "say": "Anna has already opened the door."
+  },
+  "en|opened": {
+    "lang": "en",
+    "text": "opened",
+    "say": "opened"
+  },
+  "ar|لقد فتحت آنا الباب": {
+    "lang": "ar",
+    "text": "لقد فتحت آنا الباب.",
+    "say": "لقد فتحت آنا الباب."
+  },
+  "ar|فتحت": {
+    "lang": "ar",
+    "text": "فتحت",
+    "say": "فتحت"
+  },
+  "ru|анна уже открыла дверь": {
+    "lang": "ru",
+    "text": "Анна уже открыла дверь.",
+    "say": "Анна уже открыла дверь."
+  },
+  "ru|открыла": {
+    "lang": "ru",
+    "text": "открыла",
+    "say": "открыла"
+  },
+  "it|voglio che tu venga": {
+    "lang": "it",
+    "text": "Voglio che tu venga.",
+    "say": "Voglio che tu venga."
+  },
+  "it|tu": {
+    "lang": "it",
+    "text": "tu",
+    "say": "tu"
+  },
+  "it|venga": {
+    "lang": "it",
+    "text": "venga",
+    "say": "venga"
+  },
+  "en|i want you to come": {
+    "lang": "en",
+    "text": "I want you to come.",
+    "say": "I want you to come."
+  },
+  "en|come": {
+    "lang": "en",
+    "text": "come",
+    "say": "come"
+  },
+  "ar|أريد أن تأتي": {
+    "lang": "ar",
+    "text": "أريد أن تأتي.",
+    "say": "أريد أن تأتي."
+  },
+  "ar|تأتي": {
+    "lang": "ar",
+    "text": "تأتي",
+    "say": "تأتي"
+  },
+  "ru|я хочу чтобы ты пришёл": {
+    "lang": "ru",
+    "text": "Я хочу, чтобы ты пришёл.",
+    "say": "Я хочу, чтобы ты пришёл."
+  },
+  "ru|я хочу чтобы ты пришла": {
+    "lang": "ru",
+    "text": "Я хочу, чтобы ты пришла.",
+    "say": "Я хочу, чтобы ты пришла."
+  },
+  "ru|чтобы": {
+    "lang": "ru",
+    "text": "чтобы",
+    "say": "чтобы"
+  },
+  "ru|пришёл": {
+    "lang": "ru",
+    "text": "пришёл",
+    "say": "пришёл"
+  },
+  "it|voglio che lei legga questo libro": {
+    "lang": "it",
+    "text": "Voglio che lei legga questo libro.",
+    "say": "Voglio che lei legga questo libro."
+  },
+  "it|legga": {
+    "lang": "it",
+    "text": "legga",
+    "say": "legga"
+  },
+  "en|i want her to read this book": {
+    "lang": "en",
+    "text": "I want her to read this book.",
+    "say": "I want her to read this book."
+  },
+  "en|her": {
+    "lang": "en",
+    "text": "her",
+    "say": "her"
+  },
+  "ar|أريد أن تقرأ هذا الكتاب": {
+    "lang": "ar",
+    "text": "أريد أن تقرأ هذا الكتاب.",
+    "say": "أريد أن تقرأ هذا الكتاب."
+  },
+  "ru|я хочу чтобы она прочитала эту книгу": {
+    "lang": "ru",
+    "text": "Я хочу, чтобы она прочитала эту книгу.",
+    "say": "Я хочу, чтобы она прочитала эту книгу."
+  },
+  "it|voglio che lui apra la porta": {
+    "lang": "it",
+    "text": "Voglio che lui apra la porta.",
+    "say": "Voglio che lui apra la porta."
+  },
+  "it|apra": {
+    "lang": "it",
+    "text": "apra",
+    "say": "apra"
+  },
+  "en|i want him to open the door": {
+    "lang": "en",
+    "text": "I want him to open the door.",
+    "say": "I want him to open the door."
+  },
+  "en|him": {
+    "lang": "en",
+    "text": "him",
+    "say": "him"
+  },
+  "ar|أريد أن يفتح الباب": {
+    "lang": "ar",
+    "text": "أريد أن يفتح الباب.",
+    "say": "أريد أن يفتح الباب."
+  },
+  "ar|يفتح": {
+    "lang": "ar",
+    "text": "يفتح",
+    "say": "يفتح"
+  },
+  "ru|я хочу чтобы он открыл дверь": {
+    "lang": "ru",
+    "text": "Я хочу, чтобы он открыл дверь.",
+    "say": "Я хочу, чтобы он открыл дверь."
+  },
+  "ru|открыл": {
+    "lang": "ru",
+    "text": "открыл",
+    "say": "открыл"
+  },
+  "it|sì": {
+    "lang": "it",
+    "text": "sì",
+    "say": "sì"
+  },
+  "en|yes": {
+    "lang": "en",
+    "text": "yes",
+    "say": "yes"
+  },
+  "ar|نعم": {
+    "lang": "ar",
+    "text": "نعم",
+    "say": "نعم"
+  },
+  "ru|да": {
+    "lang": "ru",
+    "text": "да",
+    "say": "да"
+  },
+  "it|no": {
+    "lang": "it",
+    "text": "no",
+    "say": "no"
+  },
+  "en|no": {
+    "lang": "en",
+    "text": "no",
+    "say": "no"
+  },
+  "ru|нет": {
+    "lang": "ru",
+    "text": "нет",
+    "say": "нет"
+  },
+  "it|per favore": {
+    "lang": "it",
+    "text": "per favore",
+    "say": "per favore"
+  },
+  "ar|من فضلك": {
+    "lang": "ar",
+    "text": "من فضلك",
+    "say": "من فضلك"
+  }
+}

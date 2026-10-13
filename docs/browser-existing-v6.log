@@ -1,0 +1,13 @@
+GROUP it pair
+GROUP it complete
+GROUP it compose
+GROUP en pair
+GROUP en complete
+GROUP en compose
+GROUP ar pair
+GROUP ar complete
+GROUP ar compose
+GROUP ru pair
+GROUP ru complete
+GROUP ru compose
+{"checks": 92, "completedUIGames": 36, "localizationConfigurations": 48, "realAudioLanguages": ["it", "en", "ru"], "errors": [], "missingTranslations": [], "storage": "in-memory test double; actual browser persistence not certified"}

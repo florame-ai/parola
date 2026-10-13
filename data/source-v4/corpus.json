@@ -1,0 +1,1740 @@
+{
+  "version": "4.0.0-preview.1",
+  "scope": "regression-fixtures-not-full-course",
+  "reviewStatus": "draft",
+  "requiresAlphabetModule": true,
+  "units": [
+    {
+      "id": "identity",
+      "title": {
+        "it": "Mi presento",
+        "en": "Introducing myself",
+        "ar": "التعريف بالنفس",
+        "ru": "Знакомство"
+      },
+      "focus": {
+        "it": "it:identity",
+        "en": "en:identity",
+        "ar": "ar:identity",
+        "ru": "ru:identity"
+      },
+      "rules": {
+        "it": {
+          "it": "Usa sono con io, è con lei o lui. In questi esempi italiani il pronome può anche essere omesso.",
+          "en": "Use sono with io and è with lei or lui. In these Italian examples, the subject pronoun can also be omitted.",
+          "ar": "استخدم sono مع io وè مع lei أو lui. يمكن حذف ضمير الفاعل في هذه الأمثلة الإيطالية.",
+          "ru": "С io используется sono, а с lei и lui — è. В этих итальянских примерах местоимение можно опустить."
+        },
+        "en": {
+          "it": "In inglese scrivi il soggetto: I am, she is, he is. Sono accettate anche le contrazioni preparate.",
+          "en": "Include the subject: I am, she is, he is. The prepared contracted forms are accepted too.",
+          "ar": "في الإنجليزية اذكر الفاعل: I am وshe is وhe is. تُقبل أيضًا صيغ الاختصار المعدة.",
+          "ru": "В английском указывайте подлежащее: I am, she is, he is. Подготовленные сокращения тоже принимаются."
+        },
+        "ar": {
+          "it": "In arabo standard, in queste presentazioni al presente non aggiungere un verbo equivalente a essere: أنا آنا.",
+          "en": "In Modern Standard Arabic, these present-tense introductions do not need a verb meaning be: أنا آنا.",
+          "ar": "في هذه الجمل الاسمية للتعريف بالنفس في الحاضر، لا نحتاج إلى فعل يكون: أنا آنا.",
+          "ru": "В литературном арабском в таких представлениях в настоящем времени не нужен глагол «быть»: أنا آنا."
+        },
+        "ru": {
+          "it": "In russo, in queste presentazioni al presente non si inserisce essere: Я Анна. Il pronome resta nelle risposte del campione.",
+          "en": "In Russian, these present-tense introductions have no verb be: Я Анна. The sample answers retain the pronoun.",
+          "ar": "في الروسية لا نستخدم فعل يكون في هذه التعريفات بصيغة الحاضر: Я Анна. تحتفظ إجابات النموذج بالضمير.",
+          "ru": "В этих представлениях в настоящем времени глагол «быть» не нужен: Я Анна. В ответах образца местоимение сохраняется."
+        }
+      },
+      "prerequisites": {
+        "it": [],
+        "en": [],
+        "ar": [],
+        "ru": []
+      }
+    },
+    {
+      "id": "objects",
+      "title": {
+        "it": "Questo è…",
+        "en": "This is…",
+        "ar": "هذا…",
+        "ru": "Это…"
+      },
+      "focus": {
+        "it": "it:objects",
+        "en": "en:objects",
+        "ar": "ar:objects",
+        "ru": "ru:objects"
+      },
+      "rules": {
+        "it": {
+          "it": "Questo accompagna un nome maschile; questa uno femminile. Nei modelli usa un libro, una casa, una scuola.",
+          "en": "Questo goes with a masculine noun; questa with a feminine noun. Use un libro, una casa and una scuola in these models.",
+          "ar": "استخدم questo مع الاسم المذكر وquesta مع المؤنث. في النماذج: un libro وuna casa وuna scuola.",
+          "ru": "Questo употребляется с существительным мужского рода, questa — женского. В образцах: un libro, una casa, una scuola."
+        },
+        "en": {
+          "it": "This is non cambia con il genere. Davanti a questi nomi singolari usa a: a book, a house, a school.",
+          "en": "This is does not change with grammatical gender. Use a before these singular nouns: a book, a house, a school.",
+          "ar": "لا يتغير this is بحسب الجنس. استخدم a قبل هذه الأسماء المفردة: a book وa house وa school.",
+          "ru": "This is не меняется по роду. Перед этими существительными в единственном числе используется a: a book, a house, a school."
+        },
+        "ar": {
+          "it": "Usa هذا con كتاب e بيت, هذه con مدرسة. Il genere del nome arabo non si ricava dalla traduzione italiana o russa.",
+          "en": "Use هذا with كتاب and بيت, and هذه with مدرسة. Grammatical gender belongs to the Arabic noun, not its translation.",
+          "ar": "استخدم هذا مع كتاب وبيت، وهذه مع مدرسة. جنس الاسم في العربية لا تحدده ترجمته إلى لغة أخرى.",
+          "ru": "Используйте هذا с كتاب и بيت, а هذه с مدرسة. Род арабского слова не определяется родом его перевода."
+        },
+        "ru": {
+          "it": "In questi esempi Это significa questo è e non cambia: Это книга, Это дом. Non aggiungere articoli.",
+          "en": "In these examples, Это means this is and does not change: Это книга, Это дом. Do not add articles.",
+          "ar": "في هذه الأمثلة تعني Это هذا أو هذه ولا تتغير: Это книга وЭто дом. لا تضف أدوات تعريف أو تنكير.",
+          "ru": "В этих примерах Это не меняется: Это книга, Это дом. Артикли не нужны."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "identity"
+        ],
+        "en": [
+          "identity"
+        ],
+        "ar": [
+          "identity"
+        ],
+        "ru": [
+          "identity"
+        ]
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "it": "Com’è?",
+        "en": "What is it like?",
+        "ar": "كيف هو؟",
+        "ru": "Какой предмет?"
+      },
+      "focus": {
+        "it": "it:description",
+        "en": "en:description",
+        "ar": "ar:description",
+        "ru": "ru:description"
+      },
+      "rules": {
+        "it": {
+          "it": "Dopo è, nuovo concorda con il nome: libro nuovo, porta nuova. Grande ha la stessa forma per questi due generi al singolare.",
+          "en": "After è, nuovo agrees with the noun: libro nuovo, porta nuova. Grande has the same singular form for both genders here.",
+          "ar": "بعد è تتوافق nuovo مع الاسم: libro nuovo وporta nuova. أما grande فلها الصيغة نفسها للمذكر والمؤنث في المفرد هنا.",
+          "ru": "После è форма nuovo согласуется с существительным: libro nuovo, porta nuova. У grande здесь одинаковая форма для обоих родов в единственном числе."
+        },
+        "en": {
+          "it": "L’aggettivo inglese non cambia per il genere del nome: the book is new, the door is new. Mantieni is.",
+          "en": "English adjectives do not change for the noun’s gender: the book is new, the door is new. Keep is in the sentence.",
+          "ar": "لا تتغير الصفة الإنجليزية بحسب جنس الاسم: the book is new وthe door is new. أبقِ is في الجملة.",
+          "ru": "Английские прилагательные не меняются по роду: the book is new, the door is new. Сохраняйте is."
+        },
+        "ar": {
+          "it": "Qui il nome ha ال e la qualità no: الكتاب جديد, il libro è nuovo. الكتاب الجديد sarebbe invece il libro nuovo, un gruppo nominale.",
+          "en": "Here the noun has ال and the predicate adjective does not: الكتاب جديد means the book is new. الكتاب الجديد is instead the noun phrase the new book.",
+          "ar": "هنا الاسم معرف بـال والصفة الخبرية نكرة: الكتاب جديد جملة، أما الكتاب الجديد فهو تركيب اسمي وليس الجملة نفسها.",
+          "ru": "Здесь существительное с ال, а прилагательное-сказуемое без него: الكتاب جديد — «книга новая». الكتاب الجديد — словосочетание «новая книга»."
+        },
+        "ru": {
+          "it": "La qualità concorda con il genere: книга новая, дом большой. In queste frasi al presente non aggiungere essere.",
+          "en": "The adjective agrees with gender: книга новая, дом большой. Do not add be in these present-tense sentences.",
+          "ar": "تتوافق الصفة مع الجنس: книга новая وдом большой. لا تضف فعل يكون في هذه الجمل في الحاضر.",
+          "ru": "Прилагательное согласуется по роду: книга новая, дом большой. В этих предложениях настоящего времени «быть» не добавляется."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "objects"
+        ],
+        "en": [
+          "objects"
+        ],
+        "ar": [
+          "objects"
+        ],
+        "ru": [
+          "objects"
+        ]
+      }
+    },
+    {
+      "id": "habits",
+      "title": {
+        "it": "Io ogni giorno",
+        "en": "My daily life",
+        "ar": "حياتي اليومية",
+        "ru": "Мой день"
+      },
+      "focus": {
+        "it": "it:habits",
+        "en": "en:habits",
+        "ar": "ar:habits",
+        "ru": "ru:habits"
+      },
+      "rules": {
+        "it": {
+          "it": "Allenati con tre forme di io: leggo, bevo, parlo. Il pronome io è facoltativo in questi modelli.",
+          "en": "Practise three io forms: leggo, bevo, parlo. The pronoun io is optional in these models.",
+          "ar": "تدرب على ثلاث صيغ مع io: leggo وbevo وparlo. يمكن حذف الضمير io في هذه النماذج.",
+          "ru": "Отработайте три формы для io: leggo, bevo, parlo. Местоимение io в этих образцах необязательно."
+        },
+        "en": {
+          "it": "Con I usa la forma base: read, drink, speak. Qui alleniamo il presente semplice; non aggiungere -s.",
+          "en": "With I, use the base form: read, drink, speak. This unit practises the simple present; do not add -s.",
+          "ar": "مع I استخدم الصيغة الأساسية: read وdrink وspeak. نتدرب هنا على المضارع البسيط؛ لا تضف ‎-s.",
+          "ru": "С I используйте основную форму: read, drink, speak. Здесь отрабатывается Present Simple; не добавляйте -s."
+        },
+        "ar": {
+          "it": "Per io, i tre verbi iniziano con أ: أقرأ، أشرب، أتكلم. أنا è facoltativo nei modelli preparati. I complementi si imparano come gruppi.",
+          "en": "For I, these verbs begin with أ: أقرأ، أشرب، أتكلم. أنا is optional in the prepared models. Learn the complements as chunks for now.",
+          "ar": "تبدأ هذه الأفعال مع المتكلم بـأ: أقرأ، أشرب، أتكلم. يمكن حذف أنا في النماذج. تعلم المتممات الآن كوحدات جاهزة.",
+          "ru": "Для «я» эти глаголы начинаются с أ: أقرأ، أشرب، أتكلم. أنا можно опустить. Дополнения пока изучаются как готовые сочетания."
+        },
+        "ru": {
+          "it": "Impara le forme читаю, пью, говорю con я. Книгу e воду sono già forme usate come oggetto: non sostituirle con i nomi del dizionario.",
+          "en": "Learn читаю, пью and говорю with я. Книгу and воду are object forms already present in the model; do not replace them with dictionary forms.",
+          "ar": "تعلم читаю وпью وговорю مع я. Книгу وводу صيغتان للمفعول في النموذج؛ لا تستبدلهما بصيغ القاموس.",
+          "ru": "Отработайте читаю, пью, говорю с я. Книгу и воду — формы дополнения в образце; не заменяйте их словарными формами."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "description"
+        ],
+        "en": [
+          "description"
+        ],
+        "ar": [
+          "location"
+        ],
+        "ru": [
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "others",
+      "title": {
+        "it": "Anche gli altri",
+        "en": "Other people too",
+        "ar": "والآخرون أيضًا",
+        "ru": "Другие люди"
+      },
+      "focus": {
+        "it": "it:others",
+        "en": "en:others",
+        "ar": "ar:others",
+        "ru": "ru:others"
+      },
+      "rules": {
+        "it": {
+          "it": "Con lei o lui, nei modelli usa legge, beve, parla: la forma cambia rispetto a leggo, bevo, parlo.",
+          "en": "With lei or lui, use legge, beve and parla in these models: the form changes from leggo, bevo and parlo.",
+          "ar": "مع lei أو lui استخدم legge وbeve وparla؛ تختلف الصيغة عن leggo وbevo وparlo.",
+          "ru": "С lei или lui в образцах используются legge, beve, parla: формы отличаются от leggo, bevo, parlo."
+        },
+        "en": {
+          "it": "Con she e he, questi verbi prendono -s: reads, drinks, speaks. L’ordine rimane soggetto, verbo, complemento.",
+          "en": "With she and he, these verbs take -s: reads, drinks, speaks. Keep the order subject, verb, complement.",
+          "ar": "مع she وhe تأخذ هذه الأفعال ‎-s: reads وdrinks وspeaks. حافظ على ترتيب الفاعل ثم الفعل ثم المتمم.",
+          "ru": "С she и he эти глаголы получают -s: reads, drinks, speaks. Порядок: подлежащее, глагол, дополнение."
+        },
+        "ar": {
+          "it": "Nei modelli con هي il verbo inizia con ت: تقرأ، تتكلم. Con هو, يشرب inizia con ي. Mantieni la persona della frase.",
+          "en": "In the هي models, the verb begins with ت: تقرأ، تتكلم. With هو, يشرب begins with ي. Keep the person specified by the sentence.",
+          "ar": "في نماذج هي يبدأ الفعل بـت: تقرأ، تتكلم. ومع هو يبدأ يشرب بـي. حافظ على الشخص المقصود في الجملة.",
+          "ru": "В образцах с هي глагол начинается с ت: تقرأ، تتكلم. С هو форма يشرب начинается с ي. Сохраняйте указанное лицо."
+        },
+        "ru": {
+          "it": "Con она o он usa читает, пьёт, говорит. In пьёт conserva ё: non normalizziamo lettere diverse come se fossero identiche.",
+          "en": "With она or он, use читает, пьёт and говорит. Keep ё in пьёт; different letters are not silently treated as identical.",
+          "ar": "مع она أو он استخدم читает وпьёт وговорит. احتفظ بـё في пьёт؛ لا نعامل الحروف المختلفة على أنها متطابقة تلقائيًا.",
+          "ru": "С она или он используются читает, пьёт, говорит. Сохраняйте ё в пьёт: разные буквы не приравниваются автоматически."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "habits"
+        ],
+        "en": [
+          "habits"
+        ],
+        "ar": [
+          "habits"
+        ],
+        "ru": [
+          "habits"
+        ]
+      }
+    },
+    {
+      "id": "negative",
+      "title": {
+        "it": "Dire di no",
+        "en": "Saying no",
+        "ar": "النفي",
+        "ru": "Отрицание"
+      },
+      "focus": {
+        "it": "it:negative",
+        "en": "en:negative",
+        "ar": "ar:negative",
+        "ru": "ru:negative"
+      },
+      "rules": {
+        "it": {
+          "it": "Per negare queste azioni, metti non prima del verbo: non bevo, non parlo, non leggo.",
+          "en": "To negate these actions, put non before the verb: non bevo, non parlo, non leggo.",
+          "ar": "لنفي هذه الأفعال ضع non قبل الفعل: non bevo وnon parlo وnon leggo.",
+          "ru": "Для отрицания этих действий поставьте non перед глаголом: non bevo, non parlo, non leggo."
+        },
+        "en": {
+          "it": "Con I, costruisci la negazione con do not più la forma base. Puoi anche usare don’t nelle varianti preparate.",
+          "en": "With I, form the negative with do not plus the base verb. The prepared don’t variants are accepted too.",
+          "ar": "مع I كوّن النفي باستخدام do not ثم الفعل بصيغته الأساسية. تُقبل أيضًا صيغ don’t المعدة.",
+          "ru": "С I отрицание строится как do not плюс основная форма глагола. Подготовленные варианты с don’t тоже принимаются."
+        },
+        "ar": {
+          "it": "Per negare queste azioni abituali, metti لا davanti al verbo al presente: لا أشرب. Questa regola non descrive ogni negazione araba.",
+          "en": "To negate these habitual actions, put لا before the present verb: لا أشرب. This is not a rule for every Arabic negative construction.",
+          "ar": "لنفي هذه الأفعال المعتادة ضع لا قبل الفعل المضارع: لا أشرب. هذه القاعدة لا تشمل جميع أنواع النفي في العربية.",
+          "ru": "Для отрицания этих обычных действий поставьте لا перед глаголом настоящего времени: لا أشرب. Это не правило для всех видов арабского отрицания."
+        },
+        "ru": {
+          "it": "Metti не prima del verbo: не пью, не говорю, не читаю. Non serve un ausiliare come do in inglese.",
+          "en": "Put не before the verb: не пью, не говорю, не читаю. No auxiliary like English do is needed.",
+          "ar": "ضع не قبل الفعل: не пью وне говорю وне читаю. لا حاجة إلى فعل مساعد مثل do في الإنجليزية.",
+          "ru": "Ставьте не перед глаголом: не пью, не говорю, не читаю. Вспомогательный глагол вроде английского do не нужен."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "others"
+        ],
+        "en": [
+          "others"
+        ],
+        "ar": [
+          "others"
+        ],
+        "ru": [
+          "others"
+        ]
+      }
+    },
+    {
+      "id": "location",
+      "title": {
+        "it": "Sul tavolo",
+        "en": "On the table",
+        "ar": "على الطاولة",
+        "ru": "На столе"
+      },
+      "focus": {
+        "it": "it:location",
+        "en": "en:location",
+        "ar": "ar:location",
+        "ru": "ru:location"
+      },
+      "rules": {
+        "it": {
+          "it": "Sul unisce su e il: sul tavolo. Nei modelli la posizione segue è.",
+          "en": "Sul combines su and il: sul tavolo. In these models, the location follows è.",
+          "ar": "تجمع sul بين su وil: sul tavolo. في النماذج يأتي المكان بعد è.",
+          "ru": "Sul объединяет su и il: sul tavolo. В этих образцах местоположение стоит после è."
+        },
+        "en": {
+          "it": "Per questi oggetti usa is on the table. Non eliminare is né the dal modello.",
+          "en": "For these objects, use is on the table. Keep both is and the in the model.",
+          "ar": "مع هذه الأشياء استخدم is on the table. لا تحذف is أوthe من النموذج.",
+          "ru": "Для этих предметов используется is on the table. Сохраняйте в образце is и the."
+        },
+        "ar": {
+          "it": "La posizione può completare la frase nominale senza essere: الكتاب على الطاولة. على significa su.",
+          "en": "A location can complete the nominal sentence without be: الكتاب على الطاولة. على means on.",
+          "ar": "يمكن أن تكمل عبارة المكان الجملة الاسمية دون فعل يكون: الكتاب على الطاولة. على حرف جر يدل هنا على الموقع فوق الطاولة.",
+          "ru": "Место может завершать именное предложение без «быть»: الكتاب على الطاولة. على здесь означает «на»."
+        },
+        "ru": {
+          "it": "Per una posizione ferma usa на столе, non на стол. Qui la forma столе esprime dove si trova qualcosa.",
+          "en": "For a static location, use на столе, not на стол. Here столе expresses where something is.",
+          "ar": "للموقع الثابت استخدم на столе وليس на стол. تعبر столе هنا عن مكان وجود الشيء.",
+          "ru": "Для неподвижного местоположения используется на столе, не на стол. Форма столе здесь отвечает на вопрос «где?»."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "negative"
+        ],
+        "en": [
+          "negative"
+        ],
+        "ar": [
+          "description"
+        ],
+        "ru": [
+          "negative"
+        ]
+      }
+    },
+    {
+      "id": "requests",
+      "title": {
+        "it": "Piccole richieste",
+        "en": "Simple requests",
+        "ar": "طلبات بسيطة",
+        "ru": "Простые просьбы"
+      },
+      "focus": {
+        "it": "it:requests",
+        "en": "en:requests",
+        "ar": "ar:requests",
+        "ru": "ru:requests"
+      },
+      "rules": {
+        "it": {
+          "it": "Per una richiesta breve usa il nome più per favore: Acqua, per favore. La formula di cortesia è un gruppo unico.",
+          "en": "For a short request, use the noun plus per favore: Acqua, per favore. Learn the courtesy phrase as a chunk.",
+          "ar": "لطلب قصير استخدم الاسم ثم per favore: Acqua, per favore. تعلم عبارة المجاملة كوحدة.",
+          "ru": "Для короткой просьбы используйте существительное и per favore: Acqua, per favore. Формулу вежливости учите целиком."
+        },
+        "en": {
+          "it": "Per una richiesta breve aggiungi please. Nel campione accettiamo anche Please, water. L’intonazione conta nell’uso reale.",
+          "en": "For a short request, add please. The sample also accepts Please, water. Intonation matters in real use.",
+          "ar": "لطلب قصير أضف please. يقبل النموذج أيضًا Please, water. للتنغيم أهمية في الاستعمال الحقيقي.",
+          "ru": "Для короткой просьбы добавьте please. В примере также принимается Please, water. В реальной речи важна интонация."
+        },
+        "ar": {
+          "it": "Aggiungi من فضلك alla richiesta. Qui l’arabo è standard moderno; il testo non vocalizzato non specifica il genere della persona a cui ti rivolgi.",
+          "en": "Add من فضلك to the request. This is Modern Standard Arabic; the unvocalised text does not specify the addressee’s gender.",
+          "ar": "أضف من فضلك إلى الطلب. نستخدم العربية الفصحى المعاصرة؛ النص غير المشكول لا يحدد جنس المخاطب.",
+          "ru": "Добавьте من فضلك к просьбе. Это литературный арабский; текст без огласовок не указывает род собеседника."
+        },
+        "ru": {
+          "it": "Nella richiesta di acqua usa воду, non вода: Воду, пожалуйста. Кофе e чай qui mantengono queste forme.",
+          "en": "In a request for water, use воду, not вода: Воду, пожалуйста. Кофе and чай keep the forms shown here.",
+          "ar": "عند طلب الماء استخدم воду وليس вода: Воду, пожалуйста. تبقى кофе وчай بالصيغتين المعروضتين هنا.",
+          "ru": "В просьбе о воде используется воду, не вода: Воду, пожалуйста. Кофе и чай здесь сохраняют указанные формы."
+        }
+      },
+      "prerequisites": {
+        "it": [
+          "location"
+        ],
+        "en": [
+          "location"
+        ],
+        "ar": [
+          "negative"
+        ],
+        "ru": [
+          "location"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "anna",
+      "unitId": "identity",
+      "text": {
+        "it": "Io sono Anna.",
+        "en": "I am Anna.",
+        "ar": "أنا آنا.",
+        "ru": "Я Анна."
+      },
+      "speech": {
+        "it": "Io sono Anna.",
+        "en": "I am Anna.",
+        "ar": "أنا آنا.",
+        "ru": "Я Анна."
+      },
+      "accepted": {
+        "it": [
+          "Io sono Anna.",
+          "sono Anna."
+        ],
+        "en": [
+          "I am Anna.",
+          "I'm Anna."
+        ],
+        "ar": [
+          "أنا آنا."
+        ],
+        "ru": [
+          "Я Анна."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "maria",
+      "unitId": "identity",
+      "text": {
+        "it": "Lei è Maria.",
+        "en": "She is Maria.",
+        "ar": "هي ماريا.",
+        "ru": "Она Мария."
+      },
+      "speech": {
+        "it": "Lei è Maria.",
+        "en": "She is Maria.",
+        "ar": "هي ماريا.",
+        "ru": "Она Мария."
+      },
+      "accepted": {
+        "it": [
+          "Lei è Maria.",
+          "è Maria."
+        ],
+        "en": [
+          "She is Maria.",
+          "She's Maria."
+        ],
+        "ar": [
+          "هي ماريا."
+        ],
+        "ru": [
+          "Она Мария."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "marco",
+      "unitId": "identity",
+      "text": {
+        "it": "Lui è Marco.",
+        "en": "He is Marco.",
+        "ar": "هو ماركو.",
+        "ru": "Он Марко."
+      },
+      "speech": {
+        "it": "Lui è Marco.",
+        "en": "He is Marco.",
+        "ar": "هو ماركو.",
+        "ru": "Он Марко."
+      },
+      "accepted": {
+        "it": [
+          "Lui è Marco.",
+          "è Marco."
+        ],
+        "en": [
+          "He is Marco.",
+          "He's Marco."
+        ],
+        "ar": [
+          "هو ماركو."
+        ],
+        "ru": [
+          "Он Марко."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "book",
+      "unitId": "objects",
+      "text": {
+        "it": "Questo è un libro.",
+        "en": "This is a book.",
+        "ar": "هذا كتاب.",
+        "ru": "Это книга."
+      },
+      "speech": {
+        "it": "Questo è un libro.",
+        "en": "This is a book.",
+        "ar": "هذا كتاب.",
+        "ru": "Это книга."
+      },
+      "accepted": {
+        "it": [
+          "Questo è un libro."
+        ],
+        "en": [
+          "This is a book."
+        ],
+        "ar": [
+          "هذا كتاب."
+        ],
+        "ru": [
+          "Это книга."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "house",
+      "unitId": "objects",
+      "text": {
+        "it": "Questa è una casa.",
+        "en": "This is a house.",
+        "ar": "هذا بيت.",
+        "ru": "Это дом."
+      },
+      "speech": {
+        "it": "Questa è una casa.",
+        "en": "This is a house.",
+        "ar": "هذا بيت.",
+        "ru": "Это дом."
+      },
+      "accepted": {
+        "it": [
+          "Questa è una casa."
+        ],
+        "en": [
+          "This is a house."
+        ],
+        "ar": [
+          "هذا بيت."
+        ],
+        "ru": [
+          "Это дом."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "school",
+      "unitId": "objects",
+      "text": {
+        "it": "Questa è una scuola.",
+        "en": "This is a school.",
+        "ar": "هذه مدرسة.",
+        "ru": "Это школа."
+      },
+      "speech": {
+        "it": "Questa è una scuola.",
+        "en": "This is a school.",
+        "ar": "هذه مدرسة.",
+        "ru": "Это школа."
+      },
+      "accepted": {
+        "it": [
+          "Questa è una scuola."
+        ],
+        "en": [
+          "This is a school."
+        ],
+        "ar": [
+          "هذه مدرسة."
+        ],
+        "ru": [
+          "Это школа."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "new_book",
+      "unitId": "description",
+      "text": {
+        "it": "Il libro è nuovo.",
+        "en": "The book is new.",
+        "ar": "الكتاب جديد.",
+        "ru": "Книга новая."
+      },
+      "speech": {
+        "it": "Il libro è nuovo.",
+        "en": "The book is new.",
+        "ar": "الكتاب جديد.",
+        "ru": "Книга новая."
+      },
+      "accepted": {
+        "it": [
+          "Il libro è nuovo."
+        ],
+        "en": [
+          "The book is new."
+        ],
+        "ar": [
+          "الكتاب جديد."
+        ],
+        "ru": [
+          "Книга новая."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "big_house",
+      "unitId": "description",
+      "text": {
+        "it": "La casa è grande.",
+        "en": "The house is big.",
+        "ar": "البيت كبير.",
+        "ru": "Дом большой."
+      },
+      "speech": {
+        "it": "La casa è grande.",
+        "en": "The house is big.",
+        "ar": "البيت كبير.",
+        "ru": "Дом большой."
+      },
+      "accepted": {
+        "it": [
+          "La casa è grande."
+        ],
+        "en": [
+          "The house is big."
+        ],
+        "ar": [
+          "البيت كبير."
+        ],
+        "ru": [
+          "Дом большой."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "new_door",
+      "unitId": "description",
+      "text": {
+        "it": "La porta è nuova.",
+        "en": "The door is new.",
+        "ar": "الباب جديد.",
+        "ru": "Дверь новая."
+      },
+      "speech": {
+        "it": "La porta è nuova.",
+        "en": "The door is new.",
+        "ar": "الباب جديد.",
+        "ru": "Дверь новая."
+      },
+      "accepted": {
+        "it": [
+          "La porta è nuova."
+        ],
+        "en": [
+          "The door is new."
+        ],
+        "ar": [
+          "الباب جديد."
+        ],
+        "ru": [
+          "Дверь новая."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "read",
+      "unitId": "habits",
+      "text": {
+        "it": "Io leggo un libro.",
+        "en": "I read a book.",
+        "ar": "أنا أقرأ كتابًا.",
+        "ru": "Я читаю книгу."
+      },
+      "speech": {
+        "it": "Io leggo un libro.",
+        "en": "I read a book.",
+        "ar": "أنا أقرأ كتابًا.",
+        "ru": "Я читаю книгу."
+      },
+      "accepted": {
+        "it": [
+          "Io leggo un libro.",
+          "leggo un libro."
+        ],
+        "en": [
+          "I read a book."
+        ],
+        "ar": [
+          "أنا أقرأ كتابًا.",
+          "أقرأ كتابًا."
+        ],
+        "ru": [
+          "Я читаю книгу.",
+          "книгу я читаю."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "water",
+      "unitId": "habits",
+      "text": {
+        "it": "Io bevo acqua.",
+        "en": "I drink water.",
+        "ar": "أنا أشرب الماء.",
+        "ru": "Я пью воду."
+      },
+      "speech": {
+        "it": "Io bevo acqua.",
+        "en": "I drink water.",
+        "ar": "أنا أشرب الماء.",
+        "ru": "Я пью воду."
+      },
+      "accepted": {
+        "it": [
+          "Io bevo acqua.",
+          "bevo acqua."
+        ],
+        "en": [
+          "I drink water."
+        ],
+        "ar": [
+          "أنا أشرب الماء.",
+          "أشرب الماء."
+        ],
+        "ru": [
+          "Я пью воду.",
+          "воду я пью."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "english",
+      "unitId": "habits",
+      "text": {
+        "it": "Io parlo inglese.",
+        "en": "I speak English.",
+        "ar": "أنا أتكلم الإنجليزية.",
+        "ru": "Я говорю по-английски."
+      },
+      "speech": {
+        "it": "Io parlo inglese.",
+        "en": "I speak English.",
+        "ar": "أنا أتكلم الإنجليزية.",
+        "ru": "Я говорю по-английски."
+      },
+      "accepted": {
+        "it": [
+          "Io parlo inglese.",
+          "parlo inglese."
+        ],
+        "en": [
+          "I speak English."
+        ],
+        "ar": [
+          "أنا أتكلم الإنجليزية.",
+          "أتكلم الإنجليزية."
+        ],
+        "ru": [
+          "Я говорю по-английски."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "she_reads",
+      "unitId": "others",
+      "text": {
+        "it": "Lei legge un libro.",
+        "en": "She reads a book.",
+        "ar": "هي تقرأ كتابًا.",
+        "ru": "Она читает книгу."
+      },
+      "speech": {
+        "it": "Lei legge un libro.",
+        "en": "She reads a book.",
+        "ar": "هي تقرأ كتابًا.",
+        "ru": "Она читает книгу."
+      },
+      "accepted": {
+        "it": [
+          "Lei legge un libro.",
+          "legge un libro."
+        ],
+        "en": [
+          "She reads a book."
+        ],
+        "ar": [
+          "هي تقرأ كتابًا.",
+          "تقرأ كتابًا."
+        ],
+        "ru": [
+          "Она читает книгу.",
+          "книгу она читает."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "he_drinks",
+      "unitId": "others",
+      "text": {
+        "it": "Lui beve tè.",
+        "en": "He drinks tea.",
+        "ar": "هو يشرب الشاي.",
+        "ru": "Он пьёт чай."
+      },
+      "speech": {
+        "it": "Lui beve tè.",
+        "en": "He drinks tea.",
+        "ar": "هو يشرب الشاي.",
+        "ru": "Он пьёт чай."
+      },
+      "accepted": {
+        "it": [
+          "Lui beve tè.",
+          "beve tè."
+        ],
+        "en": [
+          "He drinks tea."
+        ],
+        "ar": [
+          "هو يشرب الشاي.",
+          "يشرب الشاي."
+        ],
+        "ru": [
+          "Он пьёт чай.",
+          "чай он пьёт."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "she_speaks",
+      "unitId": "others",
+      "text": {
+        "it": "Lei parla italiano.",
+        "en": "She speaks Italian.",
+        "ar": "هي تتكلم الإيطالية.",
+        "ru": "Она говорит по-итальянски."
+      },
+      "speech": {
+        "it": "Lei parla italiano.",
+        "en": "She speaks Italian.",
+        "ar": "هي تتكلم الإيطالية.",
+        "ru": "Она говорит по-итальянски."
+      },
+      "accepted": {
+        "it": [
+          "Lei parla italiano.",
+          "parla italiano."
+        ],
+        "en": [
+          "She speaks Italian."
+        ],
+        "ar": [
+          "هي تتكلم الإيطالية.",
+          "تتكلم الإيطالية."
+        ],
+        "ru": [
+          "Она говорит по-итальянски."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "no_coffee",
+      "unitId": "negative",
+      "text": {
+        "it": "Io non bevo caffè.",
+        "en": "I do not drink coffee.",
+        "ar": "أنا لا أشرب القهوة.",
+        "ru": "Я не пью кофе."
+      },
+      "speech": {
+        "it": "Io non bevo caffè.",
+        "en": "I do not drink coffee.",
+        "ar": "أنا لا أشرب القهوة.",
+        "ru": "Я не пью кофе."
+      },
+      "accepted": {
+        "it": [
+          "Io non bevo caffè.",
+          "non bevo caffè."
+        ],
+        "en": [
+          "I do not drink coffee.",
+          "I don't drink coffee."
+        ],
+        "ar": [
+          "أنا لا أشرب القهوة.",
+          "لا أشرب القهوة."
+        ],
+        "ru": [
+          "Я не пью кофе.",
+          "Кофе я не пью."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "no_russian",
+      "unitId": "negative",
+      "text": {
+        "it": "Io non parlo russo.",
+        "en": "I do not speak Russian.",
+        "ar": "أنا لا أتكلم الروسية.",
+        "ru": "Я не говорю по-русски."
+      },
+      "speech": {
+        "it": "Io non parlo russo.",
+        "en": "I do not speak Russian.",
+        "ar": "أنا لا أتكلم الروسية.",
+        "ru": "Я не говорю по-русски."
+      },
+      "accepted": {
+        "it": [
+          "Io non parlo russo.",
+          "non parlo russo."
+        ],
+        "en": [
+          "I do not speak Russian.",
+          "I don't speak Russian."
+        ],
+        "ar": [
+          "أنا لا أتكلم الروسية.",
+          "لا أتكلم الروسية."
+        ],
+        "ru": [
+          "Я не говорю по-русски."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "no_read",
+      "unitId": "negative",
+      "text": {
+        "it": "Io non leggo.",
+        "en": "I do not read.",
+        "ar": "أنا لا أقرأ.",
+        "ru": "Я не читаю."
+      },
+      "speech": {
+        "it": "Io non leggo.",
+        "en": "I do not read.",
+        "ar": "أنا لا أقرأ.",
+        "ru": "Я не читаю."
+      },
+      "accepted": {
+        "it": [
+          "Io non leggo.",
+          "non leggo."
+        ],
+        "en": [
+          "I do not read.",
+          "I don't read."
+        ],
+        "ar": [
+          "أنا لا أقرأ.",
+          "لا أقرأ."
+        ],
+        "ru": [
+          "Я не читаю.",
+          "Не читаю я."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "book_table",
+      "unitId": "location",
+      "text": {
+        "it": "Il libro è sul tavolo.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة.",
+        "ru": "Книга на столе."
+      },
+      "speech": {
+        "it": "Il libro è sul tavolo.",
+        "en": "The book is on the table.",
+        "ar": "الكتاب على الطاولة.",
+        "ru": "Книга на столе."
+      },
+      "accepted": {
+        "it": [
+          "Il libro è sul tavolo."
+        ],
+        "en": [
+          "The book is on the table."
+        ],
+        "ar": [
+          "الكتاب على الطاولة."
+        ],
+        "ru": [
+          "Книга на столе."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "tea_table",
+      "unitId": "location",
+      "text": {
+        "it": "Il tè è sul tavolo.",
+        "en": "The tea is on the table.",
+        "ar": "الشاي على الطاولة.",
+        "ru": "Чай на столе."
+      },
+      "speech": {
+        "it": "Il tè è sul tavolo.",
+        "en": "The tea is on the table.",
+        "ar": "الشاي على الطاولة.",
+        "ru": "Чай на столе."
+      },
+      "accepted": {
+        "it": [
+          "Il tè è sul tavolo."
+        ],
+        "en": [
+          "The tea is on the table."
+        ],
+        "ar": [
+          "الشاي على الطاولة."
+        ],
+        "ru": [
+          "Чай на столе."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "coffee_table",
+      "unitId": "location",
+      "text": {
+        "it": "Il caffè è sul tavolo.",
+        "en": "The coffee is on the table.",
+        "ar": "القهوة على الطاولة.",
+        "ru": "Кофе на столе."
+      },
+      "speech": {
+        "it": "Il caffè è sul tavolo.",
+        "en": "The coffee is on the table.",
+        "ar": "القهوة على الطاولة.",
+        "ru": "Кофе на столе."
+      },
+      "accepted": {
+        "it": [
+          "Il caffè è sul tavolo."
+        ],
+        "en": [
+          "The coffee is on the table."
+        ],
+        "ar": [
+          "القهوة على الطاولة."
+        ],
+        "ru": [
+          "Кофе на столе."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "water_please",
+      "unitId": "requests",
+      "text": {
+        "it": "Acqua, per favore.",
+        "en": "Water, please.",
+        "ar": "ماء، من فضلك.",
+        "ru": "Воду, пожалуйста."
+      },
+      "speech": {
+        "it": "Acqua, per favore.",
+        "en": "Water, please.",
+        "ar": "ماء، من فضلك.",
+        "ru": "Воду, пожалуйста."
+      },
+      "accepted": {
+        "it": [
+          "Acqua, per favore.",
+          "Per favore, acqua."
+        ],
+        "en": [
+          "Water, please.",
+          "Please, water."
+        ],
+        "ar": [
+          "ماء، من فضلك."
+        ],
+        "ru": [
+          "Воду, пожалуйста.",
+          "Пожалуйста, воду."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "tea_please",
+      "unitId": "requests",
+      "text": {
+        "it": "Tè, per favore.",
+        "en": "Tea, please.",
+        "ar": "شاي، من فضلك.",
+        "ru": "Чай, пожалуйста."
+      },
+      "speech": {
+        "it": "Tè, per favore.",
+        "en": "Tea, please.",
+        "ar": "شاي، من فضلك.",
+        "ru": "Чай, пожалуйста."
+      },
+      "accepted": {
+        "it": [
+          "Tè, per favore.",
+          "Per favore, tè."
+        ],
+        "en": [
+          "Tea, please.",
+          "Please, tea."
+        ],
+        "ar": [
+          "شاي، من فضلك."
+        ],
+        "ru": [
+          "Чай, пожалуйста.",
+          "Пожалуйста, чай."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    },
+    {
+      "id": "coffee_please",
+      "unitId": "requests",
+      "text": {
+        "it": "Caffè, per favore.",
+        "en": "Coffee, please.",
+        "ar": "قهوة، من فضلك.",
+        "ru": "Кофе, пожалуйста."
+      },
+      "speech": {
+        "it": "Caffè, per favore.",
+        "en": "Coffee, please.",
+        "ar": "قهوة، من فضلك.",
+        "ru": "Кофе, пожалуйста."
+      },
+      "accepted": {
+        "it": [
+          "Caffè, per favore.",
+          "Per favore, caffè."
+        ],
+        "en": [
+          "Coffee, please.",
+          "Please, coffee."
+        ],
+        "ar": [
+          "قهوة، من فضلك."
+        ],
+        "ru": [
+          "Кофе, пожалуйста.",
+          "Пожалуйста, кофе."
+        ]
+      },
+      "context": {
+        "it": "Usa la struttura di questa unità. Il campione non include ogni traduzione possibile.",
+        "en": "Use this unit’s structure. The sample does not include every possible translation.",
+        "ar": "استخدم تركيب هذه الوحدة. لا يشمل المحتوى التجريبي جميع الترجمات الممكنة.",
+        "ru": "Используйте конструкцию этого раздела. Пример не включает все возможные переводы."
+      },
+      "options": {
+        "it": {
+          "assessDiacritics": false
+        },
+        "en": {
+          "assessDiacritics": false
+        },
+        "ar": {
+          "assessDiacritics": false
+        },
+        "ru": {
+          "assessDiacritics": false
+        }
+      }
+    }
+  ],
+  "paths": {
+    "it": [
+      "identity",
+      "objects",
+      "description",
+      "habits",
+      "others",
+      "negative",
+      "location",
+      "requests"
+    ],
+    "en": [
+      "identity",
+      "objects",
+      "description",
+      "habits",
+      "others",
+      "negative",
+      "location",
+      "requests"
+    ],
+    "ar": [
+      "identity",
+      "objects",
+      "description",
+      "location",
+      "habits",
+      "others",
+      "negative",
+      "requests"
+    ],
+    "ru": [
+      "identity",
+      "objects",
+      "description",
+      "habits",
+      "others",
+      "negative",
+      "location",
+      "requests"
+    ]
+  },
+  "contrast": {
+    "it>en": "In inglese il soggetto normalmente va espresso: I drink, non soltanto drink. Anche gli articoli vanno imparati nei loro contesti.",
+    "it>ar": "L’arabo del campione è standard moderno. Le frasi nominali al presente non copiano essere; ال resta unito al nome.",
+    "it>ru": "Il russo non ha articoli. In molte frasi nominali al presente non inserire essere; impara le forme dei nomi nei contesti.",
+    "en>it": "Italian can omit subject pronouns in these examples. Learn nouns with their gender and articles; do not transfer English word order mechanically.",
+    "en>ar": "This sample uses Modern Standard Arabic, not a dialect. Present nominal sentences have no be, and ال stays attached to the noun.",
+    "en>ru": "Russian has no articles and often no present-tense be in nominal sentences. Word endings and context carry information that English often expresses differently.",
+    "ar>it": "في الإيطالية يتغير الفعل بحسب الشخص، وتوجد أدوات تعريف وتنكير منفصلة. لا تنقل ترتيب الكلمات أو جنس الاسم من العربية تلقائيًا.",
+    "ar>en": "في الإنجليزية نذكر الفاعل عادة، ونستخدم am أوis في هذه الجمل الاسمية. تختلف أدوات التعريف وترتيب الصفة عن العربية.",
+    "ar>ru": "لا توجد أدوات تعريف أو تنكير في الروسية. تتغير نهايات الكلمات بحسب وظيفتها، ولا يتطابق جنس الاسم دائمًا مع العربية.",
+    "ru>it": "В итальянском нужны артикли и формы essere в изучаемых именных предложениях. Род слова нельзя автоматически переносить из русского.",
+    "ru>en": "В английском обычно нужны подлежащее и am/is в этих именных предложениях. Не опускайте артикли и не переносите свободно русский порядок слов.",
+    "ru>ar": "Здесь изучается литературный арабский. ال пишется слитно с существительным; род и порядок слов нужно изучать отдельно, а не копировать из русского."
+  }
+}

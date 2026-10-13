@@ -1,0 +1,496 @@
+{
+  "version": "6.0.0",
+  "checks": 71,
+  "origin": "about:blank with set_content; navigation blocked by administrator",
+  "storage": "explicit in-memory fixture; real disk persistence and service worker not verified",
+  "offlineDeployment": "not verified: navigation blocked",
+  "audioTested": [
+    "it",
+    "en",
+    "ru"
+  ],
+  "arabicAudioIncluded": false,
+  "errors": [],
+  "missingTranslations": [],
+  "results": [
+    {
+      "check": "v6 boot with five modes in a document fixture",
+      "passed": true
+    },
+    {
+      "check": "actual MP3 playback",
+      "passed": true,
+      "language": "it"
+    },
+    {
+      "check": "actual MP3 playback",
+      "passed": true,
+      "language": "en"
+    },
+    {
+      "check": "actual MP3 playback",
+      "passed": true,
+      "language": "ru"
+    },
+    {
+      "check": "writing gate: blank rejected, two errors show model, correct answer reveals without removing",
+      "passed": true
+    },
+    {
+      "check": "fixture reload retains board, revealed tiles and used helpers",
+      "passed": true
+    },
+    {
+      "check": "corrupt primary save recovered from backup in simulated storage",
+      "passed": true
+    },
+    {
+      "check": "v5 progress and active session migrated without deleting the old save",
+      "passed": true
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "it",
+      "support": "en",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "it",
+      "support": "ar",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "it",
+      "support": "ru",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "en",
+      "support": "it",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "en",
+      "support": "ar",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "en",
+      "support": "ru",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "ar",
+      "support": "it",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "ar",
+      "support": "en",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "ar",
+      "support": "ru",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "ru",
+      "support": "it",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "ru",
+      "support": "en",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "complete writing-Mahjong game",
+      "passed": true,
+      "target": "ru",
+      "support": "ar",
+      "score": 550,
+      "pairs": 6
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "en",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "en",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "en",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "en",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ar",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ar",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ar",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ar",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ru",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ru",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ru",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "it",
+      "support": "ru",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "it",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "it",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "it",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "it",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ar",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ar",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ar",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ar",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ru",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ru",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ru",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "en",
+      "support": "ru",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "it",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "it",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "it",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "it",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "en",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "en",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "en",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "en",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "ru",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "ru",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "ru",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ar",
+      "support": "ru",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "it",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "it",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "it",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "it",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "en",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "en",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "en",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "en",
+      "ui": "ru"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "ar",
+      "ui": "it"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "ar",
+      "ui": "en"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "ar",
+      "ui": "ar"
+    },
+    {
+      "check": "mobile writing-mode localization",
+      "passed": true,
+      "target": "ru",
+      "support": "ar",
+      "ui": "ru"
+    },
+    {
+      "check": "one free helper followed by a written-production gate",
+      "passed": true
+    },
+    {
+      "check": "export/import roundtrip includes the active game",
+      "passed": true
+    },
+    {
+      "check": "no JavaScript exceptions or missing translations during this suite",
+      "passed": true
+    }
+  ]
+}

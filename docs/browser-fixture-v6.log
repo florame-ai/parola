@@ -1,0 +1,72 @@
+PASS v6 boot with five modes in a document fixture {}
+PASS actual MP3 playback {'language': 'it'}
+PASS actual MP3 playback {'language': 'en'}
+PASS actual MP3 playback {'language': 'ru'}
+PASS writing gate: blank rejected, two errors show model, correct answer reveals without removing {}
+PASS fixture reload retains board, revealed tiles and used helpers {}
+PASS corrupt primary save recovered from backup in simulated storage {}
+PASS v5 progress and active session migrated without deleting the old save {}
+PASS complete writing-Mahjong game {'target': 'it', 'support': 'en', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'it', 'support': 'ar', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'it', 'support': 'ru', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'en', 'support': 'it', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'en', 'support': 'ar', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'en', 'support': 'ru', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'ar', 'support': 'it', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'ar', 'support': 'en', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'ar', 'support': 'ru', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'ru', 'support': 'it', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'ru', 'support': 'en', 'score': 550, 'pairs': 6}
+PASS complete writing-Mahjong game {'target': 'ru', 'support': 'ar', 'score': 550, 'pairs': 6}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'en', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'en', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'en', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'en', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ar', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ar', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ar', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ar', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ru', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ru', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ru', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'it', 'support': 'ru', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'it', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'it', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'it', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'it', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ar', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ar', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ar', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ar', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ru', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ru', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ru', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'en', 'support': 'ru', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'it', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'it', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'it', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'it', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'en', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'en', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'en', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'en', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'ru', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'ru', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'ru', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'ar', 'support': 'ru', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'it', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'it', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'it', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'it', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'en', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'en', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'en', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'en', 'ui': 'ru'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'ar', 'ui': 'it'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'ar', 'ui': 'en'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'ar', 'ui': 'ar'}
+PASS mobile writing-mode localization {'target': 'ru', 'support': 'ar', 'ui': 'ru'}
+PASS one free helper followed by a written-production gate {}
+PASS export/import roundtrip includes the active game {}
+PASS no JavaScript exceptions or missing translations during this suite {}
+TOTAL 71

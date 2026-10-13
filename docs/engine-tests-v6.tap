@@ -1,0 +1,59 @@
+TAP version 13
+# Subtest: 24 units, 72 aligned phrases, four complete UI languages, 12 directions
+ok 1 - 24 units, 72 aligned phrases, four complete UI languages, 12 directions
+  ---
+  duration_ms: 2.549339
+  type: 'test'
+  ...
+# Subtest: precise Mahjong covering and lateral blocking rules
+ok 2 - precise Mahjong covering and lateral blocking rules
+  ---
+  duration_ms: 0.316108
+  type: 'test'
+  ...
+# Subtest: all 12 directions × 24 units × 10 randomized pair boards have a solution
+ok 3 - all 12 directions × 24 units × 10 randomized pair boards have a solution
+  ---
+  duration_ms: 110.391792
+  type: 'test'
+  ...
+# Subtest: random legal pair choices: record any deadlocks instead of hiding them
+ok 4 - random legal pair choices: record any deadlocks instead of hiding them
+  ---
+  duration_ms: 36.933935
+  type: 'test'
+  ...
+# Subtest: all sentence boards can be completed; alternative identical tiles repaired safely
+ok 5 - all sentence boards can be completed; alternative identical tiles repaired safely
+  ---
+  duration_ms: 195.655406
+  type: 'test'
+  ...
+# Subtest: prefixes, variants, ordered words and preservation of important spelling distinctions
+ok 6 - prefixes, variants, ordered words and preservation of important spelling distinctions
+  ---
+  duration_ms: 7.034599
+  type: 'test'
+  ...
+# Subtest: review spacing, same-day repetition, assistance, errors, and direction isolation
+ok 7 - review spacing, same-day repetition, assistance, errors, and direction isolation
+  ---
+  duration_ms: 0.957399
+  type: 'test'
+  ...
+# Subtest: safe progress import and highest-score merge without accumulating duplicate XP
+ok 8 - safe progress import and highest-score merge without accumulating duplicate XP
+  ---
+  duration_ms: 0.995367
+  type: 'test'
+  ...
+# SIMULATION_REPORT {"boards":4320,"sequenceMoves":16035,"randomStalls":0}
+1..8
+# tests 8
+# suites 0
+# pass 8
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 421.69754

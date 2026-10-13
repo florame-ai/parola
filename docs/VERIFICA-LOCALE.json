@@ -1,0 +1,47 @@
+{
+  "version": "6.0.0",
+  "reconstructedFrom": "v5 source archive available in this conversation",
+  "nodeTests": {
+    "passed": 18,
+    "failed": 0,
+    "report": "tests-v6.tap"
+  },
+  "mahjongSimulations": {
+    "boardScenarios": 4320,
+    "randomLegalPlayScenarios": 2000,
+    "observedStalls": 0
+  },
+  "browser": {
+    "newChecks": 71,
+    "existingModeChecks": 92,
+    "totalChecks": 163,
+    "completedWritingGames": 12,
+    "otherCompletedGames": 36,
+    "storage": "in-memory fixture; actual browser disk persistence not verified",
+    "hostedOfflineTest": "blocked by browser administrator; not passed"
+  },
+  "audio": {
+    "includedMP3": 566,
+    "languages": [
+      "it",
+      "en",
+      "ru"
+    ],
+    "missingRequests": 191,
+    "missingLanguages": [
+      "ar"
+    ],
+    "playbackSmokeTests": [
+      "it",
+      "en",
+      "ru"
+    ],
+    "nativeReview": false
+  },
+  "publication": "not published; GitHub Pages configuration included",
+  "limitations": [
+    "Arabic audio pack missing",
+    "hosted reload and service worker not verified",
+    "linguistic and pronunciation review by native speakers pending"
+  ]
+}

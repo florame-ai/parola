@@ -1,0 +1,746 @@
+{
+  "checks": 92,
+  "completedUIGames": 36,
+  "localizationConfigurations": 48,
+  "realAudioLanguages": [
+    "it",
+    "en",
+    "ru"
+  ],
+  "errors": [],
+  "missingTranslations": [],
+  "storage": "in-memory test double; actual browser persistence not certified",
+  "results": [
+    {
+      "check": "real embedded audio playback at 0.8x",
+      "lang": "it",
+      "passed": true
+    },
+    {
+      "check": "real embedded audio playback at 0.8x",
+      "lang": "en",
+      "passed": true
+    },
+    {
+      "check": "real embedded audio playback at 0.8x",
+      "lang": "ru",
+      "passed": true
+    },
+    {
+      "check": "Arabic absence explicitly reported, no false listening credit",
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "pair",
+      "target": "it",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "pair",
+      "target": "it",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "pair",
+      "target": "it",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "complete",
+      "target": "it",
+      "support": "en",
+      "score": 315,
+      "steps": 11,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "complete",
+      "target": "it",
+      "support": "en",
+      "score": 315,
+      "steps": 19,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "complete",
+      "target": "it",
+      "support": "en",
+      "score": 315,
+      "steps": 18,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "compose",
+      "target": "it",
+      "support": "en",
+      "score": 375,
+      "steps": 13,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "compose",
+      "target": "it",
+      "support": "en",
+      "score": 375,
+      "steps": 22,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "compose",
+      "target": "it",
+      "support": "en",
+      "score": 375,
+      "steps": 21,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "pair",
+      "target": "en",
+      "support": "ru",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "pair",
+      "target": "en",
+      "support": "ru",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "pair",
+      "target": "en",
+      "support": "ru",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "complete",
+      "target": "en",
+      "support": "ru",
+      "score": 315,
+      "steps": 11,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "complete",
+      "target": "en",
+      "support": "ru",
+      "score": 315,
+      "steps": 16,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "complete",
+      "target": "en",
+      "support": "ru",
+      "score": 315,
+      "steps": 21,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "compose",
+      "target": "en",
+      "support": "ru",
+      "score": 375,
+      "steps": 14,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "compose",
+      "target": "en",
+      "support": "ru",
+      "score": 375,
+      "steps": 19,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "compose",
+      "target": "en",
+      "support": "ru",
+      "score": 375,
+      "steps": 24,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "pair",
+      "target": "ar",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "pair",
+      "target": "ar",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "pair",
+      "target": "ar",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "complete",
+      "target": "ar",
+      "support": "en",
+      "score": 315,
+      "steps": 8,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "complete",
+      "target": "ar",
+      "support": "en",
+      "score": 315,
+      "steps": 14,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "complete",
+      "target": "ar",
+      "support": "en",
+      "score": 315,
+      "steps": 14,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "compose",
+      "target": "ar",
+      "support": "en",
+      "score": 375,
+      "steps": 11,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "compose",
+      "target": "ar",
+      "support": "en",
+      "score": 375,
+      "steps": 17,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "compose",
+      "target": "ar",
+      "support": "en",
+      "score": 375,
+      "steps": 17,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "pair",
+      "target": "ru",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "pair",
+      "target": "ru",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "pair",
+      "target": "ru",
+      "support": "en",
+      "score": 370,
+      "steps": 6,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "complete",
+      "target": "ru",
+      "support": "en",
+      "score": 315,
+      "steps": 8,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "complete",
+      "target": "ru",
+      "support": "en",
+      "score": 315,
+      "steps": 14,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "complete",
+      "target": "ru",
+      "support": "en",
+      "score": 315,
+      "steps": 20,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "identity",
+      "mode": "compose",
+      "target": "ru",
+      "support": "en",
+      "score": 375,
+      "steps": 11,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "past",
+      "mode": "compose",
+      "target": "ru",
+      "support": "en",
+      "score": 375,
+      "steps": 17,
+      "passed": true
+    },
+    {
+      "check": "completed UI game",
+      "unit": "wishes",
+      "mode": "compose",
+      "target": "ru",
+      "support": "en",
+      "score": 375,
+      "steps": 23,
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "en",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "en",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "en",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "en",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ar",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ar",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ar",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ar",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ru",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ru",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ru",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "it",
+      "support": "ru",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "it",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "it",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "it",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "it",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ar",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ar",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ar",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ar",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ru",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ru",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ru",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "en",
+      "support": "ru",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "it",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "it",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "it",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "it",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "en",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "en",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "en",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "en",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "ru",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "ru",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "ru",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ar",
+      "support": "ru",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "it",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "it",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "it",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "it",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "en",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "en",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "en",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "en",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "ar",
+      "ui": "it",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "ar",
+      "ui": "en",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "ar",
+      "ui": "ar",
+      "passed": true
+    },
+    {
+      "check": "mobile localization",
+      "target": "ru",
+      "support": "ar",
+      "ui": "ru",
+      "passed": true
+    },
+    {
+      "check": "wrong next tile rejected without tile loss",
+      "passed": true
+    },
+    {
+      "check": "hint: one free, blank rejected, two mistakes show model, writing unlocks exactly one",
+      "passed": true
+    },
+    {
+      "check": "serialized session resume preserves board and consumed helpers (memory storage fixture)",
+      "passed": true
+    },
+    {
+      "check": "real listening waits for playback ended before credit; transcript marked supported",
+      "passed": true
+    }
+  ]
+}
